@@ -11,7 +11,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>660000ff</color>
+			<color>440000ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin">
@@ -23,7 +23,7 @@
 			<width>4.5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>660000ff</color>
+			<color>440000ff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_blu-circle">
@@ -43,10 +43,10 @@
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -55,7 +55,7 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin">
@@ -71,14 +71,14 @@
 	<Style id="sn_blu-circle">
 		<IconStyle>
 			<color>80ffffff</color>
-			<scale>1.1</scale>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -87,13 +87,13 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Folder>
 		<name>焼失概略範囲</name>
 		<Placemark>
-			<name>焼失1</name>
+			<name>焼失概略範囲</name>
 			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -107,7 +107,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>焼失2</name>
+			<name>焼失概略範囲</name>
 			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>

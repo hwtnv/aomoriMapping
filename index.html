@@ -4,12 +4,11 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-	<meta name="description" content="Cesiumを使った日野市オープンデータ可視化のサンプルです" />
-	<meta property="og:image" content="data/hinoshi.png" />
-	<meta property="og:description" content="Cesiumを使った日野市オープンデータ可視化のサンプルです" />
+	<meta name="description" content="「青森空襲被害地図」のデータをデジタルアースに移植したコンテンツ" />
+	<meta property="og:image" content="data/aomori.png" />
+	<meta property="og:description" content="「青森空襲被害地図」のデータをデジタルアースに移植したコンテンツ" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-	<title>日野市オープンデータ可視化</title>
-	<link rel="alternate" href="http://hiroshima.archiving.jp/index_en.html" hreflang="en" />
+	<title>青森空襲被害地図3D</title>
 	<link rel="SHORTCUT ICON" href="http://shinsai.mapping.jp/favicon.ico">
 	<style>
 		@import url(Cesium/Widgets/widgets.css);
@@ -147,8 +146,8 @@
 
 		//視点を登録：　緯度，経度，注視点の高さ，傾き，視点の高さ
 
-		viewPointsArray[0] = new viewPoints("首都大", 35.661, 139.3657347, 0, -45, 1000);
-		viewPointsArray[1] = new viewPoints("日野市", 40.822910, 140.752180, 0, -89, 15000);
+		viewPointsArray[0] = new viewPoints("青森県", 35.661, 139.3657347, 0, -45, 1000);
+		viewPointsArray[1] = new viewPoints("青森市", 40.822910, 140.752180, 0, -89, 15000);
 		viewPointsArray[2] = new viewPoints("初期視点", 40.822910, 140.752180, 180, -30, 4000);
 
 		//視点メニューを作成
@@ -432,7 +431,7 @@
 		// ========== ヘルプへリンク ========== 
 
 		function help() {
-			window.open('https://github.com/wtnv-lab/cesiumGitHubPages');
+			window.open('https://www.google.com/maps/d/u/0/viewer?mid=1VsnH6lNX3g0CK_weS5zNupty3EM&hl=ja&ll=40.83176819397867%2C140.7423515311632&z=13');
 		}
 
 		// ========== 各種DIVのフェードイン・アウト ========== 

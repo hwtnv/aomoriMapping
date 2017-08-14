@@ -14,34 +14,34 @@
 	</StyleMap>
 	<Style id="icon-960-DB4436-normal">
 		<IconStyle>
-			<color>cc0600fc</color>
-			<scale>1.1</scale>
+			<color>dd0600fc</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-960-DB4436-highlight">
 		<IconStyle>
-			<color>cc0600fc</color>
+			<color>dd0600fc</color>
 			<scale>1.28333</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Folder>

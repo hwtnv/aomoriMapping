@@ -5,18 +5,18 @@
 	<description><![CDATA[昭和20（1945）年7月28日夜、青森市はアメリカ軍機による空襲を受け、壊滅的被害を受け、1000人以上もの死者を出しました。<br>　この図は、空襲によって家屋などが焼失してしまったおおよその範囲を示したものです。如何に、アメリカによる空襲が凄まじかったかがわかります。赤色部分が炎をあげたかと思うとゾッとします。あなたが今お住まいの場所が、空襲時どうだったかを確かめてみるのも、歴史に思いを寄せるきっかけになるかもしれません。<br>（新）=約1ヶ月以内の追加<br>（原図=「写真集　青森大空襲の記録」青森空襲を記録する会=http://aomorikuushuu.jpn.org/）]]></description>
 	<Style id="icon-962-009D57-highlight">
 		<IconStyle>
-			<color>cc06ff27</color>
-			<scale>1.1</scale>
+			<color>dd06ff27</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="line-F4EB37-3131-normal">
@@ -71,18 +71,18 @@
 	</Style>
 	<Style id="icon-961-E6EEA3-highlight">
 		<IconStyle>
-			<color>cc0ae7ff</color>
-			<scale>1.1</scale>
+			<color>dd0ae7ff</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-503-C6A4CF-highlight">
@@ -92,10 +92,10 @@
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -104,7 +104,7 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<StyleMap id="icon-503-DB4436">
@@ -119,31 +119,31 @@
 	</StyleMap>
 	<Style id="icon-960-DB4436-normal">
 		<IconStyle>
-			<color>cc0600fc</color>
-			<scale>1.1</scale>
+			<color>dd0600fc</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-503-C6A4CF-normal">
 		<IconStyle>
 			<color>80ffffff</color>
-			<scale>1.1</scale>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -152,23 +152,23 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-961-E6EEA3-normal">
 		<IconStyle>
-			<color>cc0ae7ff</color>
-			<scale>1.1</scale>
+			<color>dd0ae7ff</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<StyleMap id="icon-960-DB4436">
@@ -183,18 +183,18 @@
 	</StyleMap>
 	<Style id="icon-959-795046-highlight">
 		<IconStyle>
-			<color>cc034d9d</color>
-			<scale>1.1</scale>
+			<color>dd034d9d</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_blu-circle">
@@ -230,14 +230,14 @@
 	<Style id="icon-503-F4EB37-normal">
 		<IconStyle>
 			<color>80ffffff</color>
-			<scale>1.1</scale>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -246,24 +246,24 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-503-DB4436-highlight">
 		<IconStyle>
-			<color>ccffffff</color>
-			<scale>1.1</scale>
+			<color>ddffffff</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-503-F4EB37-highlight">
@@ -273,10 +273,10 @@
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -285,23 +285,23 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-960-DB4436-highlight">
 		<IconStyle>
-			<color>cc0600fc</color>
+			<color>dd0600fc</color>
 			<scale>1.28333</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-503-777777-highlight">
@@ -311,10 +311,10 @@
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -323,37 +323,37 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-503-DB4436-normal">
 		<IconStyle>
-			<color>ccffffff</color>
-			<scale>1.1</scale>
+			<color>ddffffff</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="sn_blu-circle">
 		<IconStyle>
 			<color>80ffffff</color>
-			<scale>1.1</scale>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -362,7 +362,7 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<StyleMap id="icon-962-009D57">
@@ -378,14 +378,14 @@
 	<Style id="icon-503-777777-normal">
 		<IconStyle>
 			<color>80ffffff</color>
-			<scale>1.1</scale>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -394,7 +394,7 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="line-F4EB37-3131-highlight">
@@ -410,10 +410,10 @@
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
 			</Icon>
-			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<ListStyle>
@@ -422,7 +422,7 @@
 			</ItemIcon>
 		</ListStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<StyleMap id="icon-503-F4EB37">
@@ -447,34 +447,34 @@
 	</StyleMap>
 	<Style id="icon-962-009D57-normal">
 		<IconStyle>
-			<color>cc06ff27</color>
-			<scale>1.1</scale>
+			<color>dd06ff27</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="icon-959-795046-normal">
 		<IconStyle>
-			<color>cc034d9d</color>
-			<scale>1.1</scale>
+			<color>dd034d9d</color>
+			<scale>1.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 			<scale>0.75</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ccffffff</color>
+			<color>ddffffff</color>
 		</LineStyle>
 	</Style>
 	<StyleMap id="line-F4EB37-3131">
