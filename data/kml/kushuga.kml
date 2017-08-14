@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kushuga.kml</name>
+	<Style id="icon-503-F4EB37-highlight">
+		<IconStyle>
+			<color>80ffffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-503-F4EB37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-503-F4EB37-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-503-F4EB37-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-503-F4EB37-normal">
+		<IconStyle>
+			<color>80ffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>張山喜隆空襲画</name>
+		<Placemark>
+			<name>【伝えたい記憶】第1回　戦争「校庭にも高射砲」</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/dStmaHfJAm5VtxcAPQYvT6uKqSfKEHZ0i3WGx-huQD0pyT8iNgH3dwy8yiioKwuTOlnUMcFKiZDUjZBcW1V1I0gV_C67s3TGfmSh3nhMc4BvmfLPBYR_w-NYtAf4pgyr9g" height="200" width="auto" /><br><br>戦争中は野内小学校校庭にも高射砲があり、小学生達が毎朝登校する時間に、兵隊達が７〜８人くらい整列をして号令をかけ、国旗に敬礼をしていたそうです。学校でも体育の時間は、もっぱらバケツを使った消火訓練と、竹槍を使った突撃訓練をしていたそうです。<br><br>徴兵検査と言うのもあり、結果は甲乙丙と段階を付けられて、甲に選ばれると、「甲種合格」と胸を張って自慢したそうです。若者が出兵して行く時は、村中で万歳を三唱し、若者を兵隊に出してやった家は、お国のために戦っている立派な家と褒められ、若い女性達も、戦地で傷ついた兵士を看護する従軍看護婦に憧れて、女学生たちは大抵それに志願したそうです。<br><br>母の家でも兄が二回も出兵し、運よく生きて帰って来れたそうですが、その間は両親とも、兄が帰って来るまで毎日心配をしていたそうです。弟達が徴兵される前に戦争は終わりましたが、敗戦という形で終わったので、今度は、日本人は皆米英の奴隷にされるのではないかと心配をしたそうです。<br><br>教育とは、戦争に勝てば正しい教育、負ければ間違った教育のように見られがちですが、世界中から戦争という二文字が消えない現実を見ると、平和教育は、現実離れしか理想論とか机上論なのかな。今の日本人は平和ボケと言われているが、世界の中では、今も戦火に晒されている家族達が居る事を今の子供達に教えてほしい。（聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/dStmaHfJAm5VtxcAPQYvT6uKqSfKEHZ0i3WGx-huQD0pyT8iNgH3dwy8yiioKwuTOlnUMcFKiZDUjZBcW1V1I0gV_C67s3TGfmSh3nhMc4BvmfLPBYR_w-NYtAf4pgyr9g</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.8190203,40.8494951,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第2回　戦争「青森空襲　前田さんの記憶」</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/3eHvgsOVDSrTFRI2tpipsgBjMrAlmMWadYHOm-6R1CgZOKtHwVIE6Z1BtkRrXahgvZS6AUuXDccIONIf8UdFEltqNNA4JfCgxgwZ_SAmc1J6hio30RTQIsU7TZMkIB72lw" height="200" width="auto" /><br><br>その当時私は女学校を卒業したばかりでしたが、役所の人が家に来て、「小学校の先生になってくれ」と頼まれて、別にやる気も無いまま先生をしていました。<br><br>そんな時、急に生徒達を雲谷方面に疎開をさせると校長が言いだして、遠足のように歩かせて疎開をしたんですよ。そうしたら名簿みたいな物を学校に取りに行ってくれと校長に言われて、もう一度町まで引き返している途中、丁度、妙見にあった大星神社近くまで来たら、空から雷の雷鳴のような音が聞こえて来て、びっくりして空を見上げたら、ピカピカ光る大きな飛行機が空が見えなくなる位飛んで来て、青森の町の方へ飛んでいたんだよね。そうしたら駅の方を飛んでいた飛行機から、何か爆弾の様なものが落ちたかと恩ったら、それが空中で何個にも分かれた火の玉になって、あっと恩う間もなく火事になってしまった。それなのにその飛行機達は、何個も何個もその爆弾を落とすので、町が大の海になってしまい、私は頭を抱えながら疎開先まで逃げ帰った。<br><br>その途中、赤ん坊を負んぶしている人々、リヤカーを引いて野菜を運んでいる人等が居たんだけど、その人達はどうなったのかなと恩うと、心配で心配でたまらなかったけど、青森の町が焼かれているのをはっきりと高台から見てしまった。その反面、つくづく子供達を疎開させて良かったと恩いましたよ。（聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/3eHvgsOVDSrTFRI2tpipsgBjMrAlmMWadYHOm-6R1CgZOKtHwVIE6Z1BtkRrXahgvZS6AUuXDccIONIf8UdFEltqNNA4JfCgxgwZ_SAmc1J6hio30RTQIsU7TZMkIB72lw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7607412,40.7913293,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第3回　戦争「青森空襲の夜」</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/QgL72ZlBB-5g3pXYfNJ8TIfrkwYqruTcDaBJGwOFp3-KAbZZ9Bxd4Ikw-Ui1BtVs7OW4f66qH-pByk3rmOdc1-6l1Xx99EFGwUrXlJ7PMmQ9iFonHvF4r_bPhY1bqGM" height="200" width="auto" /><br><br>母が二十歳の頃、青森駅の電話の交換手として、電務区と言う所に勤めていたそうだ。青森空襲の日は、丁度夜間勤務の目だったので、午後の５時頃から勤務に入ったそうです。<br><br>それから間もなく、母の電話交換台に、新潟管区から呼び出し信号が入ったので、急いでメモ帳を開いて、「はいこちらは青森駅交換台です。」と答えると、慌てた声で、「こちらは新潟駅です。只今当上空を、Ｂ29敵爆撃機の大編隊が北に向かいつつあり。充分に注意されたし」と言ったので、そのメモを区長に渡すと、区長は顔色を変えて駅長室に走って行った。<br><br>同僚に、「今爆撃機がこっちに向かっていると入電があったよ」と伝えていたら、同僚の一人が窓の外を見て、「爆撃機ってあれかな。」とハ甲田山の上を指さすと、見る見るうちにその数は増えて、雷鳴のような轟きに青森市は包まれてしまった。外に逃げようと恩ったら、区長が、「自分の任務を離れるな。死守せよ」とドアに立ちはだかったので、震えながら交換台に付いた。<br><br>今でもあの低い爆撃機の音と、弾倉の扉の開く鈍い金属音と、爆弾の離れる擦れた音と、落ちて来る風切り音と空中で作製する音と、その後の悲鳴と家の燃える音と。とにかく、外は火の海なので目を閉じたままで交換台にしがみ付いているしかなかったそうだ。（聞き書き：張山喜隆）<br><br><img src="https://lh4.googleusercontent.com/gNTaHeMKKs6kVMnq8GZNPVDtR81FGv62QCVC1cMOhw53aZgiJ9m0s_cayuw8OwJZJb90iuEbpfXo1XG6R2NzxjTp0VLOMjihMQhRmL-_EFnGzO9iX8YX_ei5GmkqdKc" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/QgL72ZlBB-5g3pXYfNJ8TIfrkwYqruTcDaBJGwOFp3-KAbZZ9Bxd4Ikw-Ui1BtVs7OW4f66qH-pByk3rmOdc1-6l1Xx99EFGwUrXlJ7PMmQ9iFonHvF4r_bPhY1bqGM https://lh4.googleusercontent.com/gNTaHeMKKs6kVMnq8GZNPVDtR81FGv62QCVC1cMOhw53aZgiJ9m0s_cayuw8OwJZJb90iuEbpfXo1XG6R2NzxjTp0VLOMjihMQhRmL-_EFnGzO9iX8YX_ei5GmkqdKc</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7348472,40.828866,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第4回　戦争「青森空襲の次の日」</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/a5tIO1OUfK_s_4I7AwOWSYO5wUxJE3hG_IR5ihv9iUoA2ZL0myNL8cUd0b2QJYiq7Wrk3808R4xRYSQfnieIA0kMPEYUoGr1LIjjz9cq7yU4iHBxg-uDE-UG9bSRX9PW" height="200" width="auto" /><br><br>青森電務区の夜勤だった母は、その夜一睡も出来ずに、朝日の中に煙る無残な青森市の焼跡を見る事になった。<br><br>先ずはうっすらと明るくなりかけた東の空に、そこからは山頂しか見えなかった東岳が麓まで見え、続いて見えるはずの無い合浦公園の松林が見えた。まさかと思い恐る恐る窓辺まで行くと、黒く焦げた駅舎と、いくつか残ったビルの残骸だけが影を落とし、後の木造家屋等は全て焼け落ちて、炭の山になっていた。<br><br>窓から漂って来るのは硫黄の匂いと火事場の匂いで、直ぐに窓を閉めて電話の交換台に座った。どこからも電話がかかって来ないまま暫くすると、早番の同僚が泣きながら入って来て、「良く生きていた」と抱きついて来た。同僚は、実家のある安田の高台から見ていたそうで、駅が最初に攻撃されたと思っていたとか。とにかく朝来てみたら駅の建物が立っていたのでほっとしたそうだが、「駅前は天変だよ。見ない方が良いから。」と言われた。<br><br>もう一度窓を開けて身を乗り出すようにしてみたら、軍隊のトラックに、焼けただれて亡くなった方々の遺体が、無造作に折り重なって積まれていた。先程まで見ていた家の焼跡だと思っていたのは、人間の遺体だった事がわかり、道なりに目を勤かすと、まだ収容されていない遺体がまだ１０体より多く見られた。（聞き取り：張山喜隆）<br><br><img src="https://lh3.googleusercontent.com/dmMOgW8A7RiNJzYH1FCdsfKWlE43jNuGu8UaxgOvTQl0K01FRb90_g7rs6OVppfZB9IRstSMHhGdTrVU7hxsW1aeQ2QV5nP6crjymec-zdrn6gPxLBhG9zXyDBnpONVa3A" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/a5tIO1OUfK_s_4I7AwOWSYO5wUxJE3hG_IR5ihv9iUoA2ZL0myNL8cUd0b2QJYiq7Wrk3808R4xRYSQfnieIA0kMPEYUoGr1LIjjz9cq7yU4iHBxg-uDE-UG9bSRX9PW https://lh3.googleusercontent.com/dmMOgW8A7RiNJzYH1FCdsfKWlE43jNuGu8UaxgOvTQl0K01FRb90_g7rs6OVppfZB9IRstSMHhGdTrVU7hxsW1aeQ2QV5nP6crjymec-zdrn6gPxLBhG9zXyDBnpONVa3A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7347292,40.8288052,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第5回　戦争「家路の途中」</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/CTEgVXA5BTXUiWa-3VxbbB25VDAQT9eWRJ3d2fPjPzwS89GiG-pCM6ItQ7j2T7AmB5VoGlamV787M8R1AESx-I7fpc0CJxUnm1wWnyQdiNTNTOrKU-_E-KwsWRxlZ-4" height="200" width="auto" /><br><br>空襲の夜の夜勤が明け、家路に就こうと思ったが、果たして実家は残っているのだろうかと不安になった。でもここに居ても危ないし、とにかく実家のある野内村に帰ろうと思い、焼野原の外に出ると、同僚のセツさんが慌てて後を追って来て、「私帰る所が無いから、テルさん、一緒に行ってもいい。」と聞いて来た。もちろん一人よりは心強いので了解をし、二人で線路沿いに村の方へ歩き出した。<br><br>街中はいたる所でまだ燻っているし、哀れな遺体がまだ何体も横たわっているので、遠廻りでも線路沿いの方が確かだと思った。浦町駅までは臭くて熱くて大変だったが、浪打駅を過ぎた辺りから、人家もまだ残っていて、何かほっとした感じがした。<br><br>そこから少し行くと、辺り一面の水田と種鶏場横の唐松林が見えた。その時突然、自分達の周りの線路の敷石が、ガツガツと音をたてて前の方に飛び敷った。何だろうと思っていると、自分かちの頭上を背後から音も無く敵の飛行機が飛び去り追い抜き、又反転をして自分達に機関砲を撃って来た光が両翼に見えた。又自分達の横をギュンギュンと弾が通り過ぎる音がしたので、セツさんと手を取り合って林の中の草むらに飛び込んだ。又飛行機は旋回をして私達を探して飛び去るうとしないで上空にいたので、声を出したら殺されると思い草を抜って息をひそめていた。（聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/CTEgVXA5BTXUiWa-3VxbbB25VDAQT9eWRJ3d2fPjPzwS89GiG-pCM6ItQ7j2T7AmB5VoGlamV787M8R1AESx-I7fpc0CJxUnm1wWnyQdiNTNTOrKU-_E-KwsWRxlZ-4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.794403,40.8309036,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第6回　戦争「戦闘機の操縦士の顔」</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/DBhsarxXz_DSxOXlvXmHEmxuDgQw9JDq6hPKqIcYHHbqR92TJBrZE7mJCCYAlVVAC5HIL3ofifgZmLmXFA1-qLdoilnopbZrrJdz-xLeZdhPLaHk5SI3vBUEslxQKWbk" height="200" width="auto" /><br><br>私たちを襲った戦闘機は暫く上空を飛んでいたが、間もなくその影は無くなり、草むらの陰でセツさんとやっと顔を見合わせる事が出来た。セツさんはがたがた震えていたが、私の顔を見ると急に泣き出して抱きついて来た。私は大きく息を４いて身体に付いた草を払いながら、「セツさん、もう大丈夫だよね。」と言いながらまた二人で線路上を歩きだした。<br><br>するとまたさっきの戦闘機が前方に現れて、又機関砲を撃って来た。二人は又林の中に飛び込んで、今度は草むらの中でも背の高い方に逃げ込み、移動しやすいようにしやがんだ体勢で隠れた。飛行機は線路上を低空で丁度飛び去ると又例のように、でも今度は自動車並みのゆっくりとしたスピードで、極低空を飛んで来た。私はその飛行機が本当に憎たらしくなって、草むらの陰からその操縦席を睨んだ。するとそこには二人の白人が座っており、二人で何かを話しながらうすら笑いを浮かべていた。でもその目はらんらんと関いて、ギョロギョロと動かして私達を探しているのがわかった。セツさんは、「テルさん隠れて。」と言ってしがみ付いて来たけれど、私は本当にしつこいこいつらには殺されないぞと睨み続けていた。<br><br>武器を持たない一般人を殺しても、戦争とは勝てば官軍なのだなとその時つくづく思った。（聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/DBhsarxXz_DSxOXlvXmHEmxuDgQw9JDq6hPKqIcYHHbqR92TJBrZE7mJCCYAlVVAC5HIL3ofifgZmLmXFA1-qLdoilnopbZrrJdz-xLeZdhPLaHk5SI3vBUEslxQKWbk</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7946712,40.8309727,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第7回　戦争「気がつけば野苺の中」</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/xwo3APvXSiXBW6qi1lAd9C1dJ3Qpjiyu5ebP484vaRj3pHfRV3SX3xSeldEw4y7h-ffnQAdetYNIalU3dFwPQ3thv4ohvM1LoJac42e9mUqNJvEWeRzImuTB_qZtM58" height="200" width="auto" /><br><br>敵の飛行機が飛び去るのを、その場所で小一時間位隠れて過ごした。セツさんは、「テルさん、まだ出ちや駄目だよ。」と言って私を引き止めるようにしてしがみ付いていた。暫くすると小鳥の声がして来た、風のざわめきも聞こえて来た。私は、「もう大丈夫かもしれないね。」と言うと、セツさんは突拍子もない声で、「テルさん、この赤い実は何。」と常に乗せて間いて来た。それを見ると、筋子のように赤い粒粒の苗代苺の実だった。「野苺だよ。」と言うと、「食べられるの。」と聞いて来たので、掌の苺を取って食べて見せた。セツさんはそれを見て、自分でもそれを口に入れた。「酸っぱい。酸っぱい。」と言って笑った。廻りを良く見ると、その隠れていた場所は野苺の群落の中で、赤い実がいっぱい釣り下がっていた。顔を上げて又周りを見回すと、咲き遅れたのか、野花菖蒲の花も少し咲いていた。水田の向こうには水車小屋が見え、田んぼの上をツバメが虫を捕って飛んでいた。<br><br>二人は野苺を食べながらそこに座って、「何で戦争をしなければならないの。」と呟いた。セツさんは野苺をポケットにいっぱい取って、「腹が減っては戦は出来ぬ。」と言って笑った。その後今度は鉄道の上には帰らず、田舎道を物陰に隠れ、上空に注意をしながら野内村に向かった。そして村の小学校まで来ると、黒松林の間から実家が無事なのが確認できた。（聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/xwo3APvXSiXBW6qi1lAd9C1dJ3Qpjiyu5ebP484vaRj3pHfRV3SX3xSeldEw4y7h-ffnQAdetYNIalU3dFwPQ3thv4ohvM1LoJac42e9mUqNJvEWeRzImuTB_qZtM58</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7949501,40.8310498,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第8回　戦争「空襲の次の日（母の兄、正夫の話）」</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/07gz87CnRdS-wCeKLK8AF3-kL7YPSuyxdMZ10m7h5BYYZbIVgassz-Mcf7ecXjslOkEYR8ZGP-VLChGYzPFnBFK9sTs6V6PGQaRt4X0tvvcShhTLIn4FX-gQaU4u8uJS" height="200" width="auto" /><br><br>空襲の日、母の兄は二度目の兵役から生きて戻って家にいたが、野内村も石油タンクがあるために爆撃をされたので、家で死ねれば本望だと思って覚悟を決めたそうだ。でも兄弟達を安全な所に移動させなくてはならないので、家を離れることにした。<br><br>でも妹のテルが青森に勤めに行っているので、それだけが心配だったとか。次の日直ぐに自転車に乗り、青森市に向かうと、途中の八重田等は何もなかったように普段と変わらない景色で、人は見掛けなかったが、のんびりと猫が道を横切ったりしていた。<br><br>暫く行くと今度は、硫黄と焦げ臭い嫌な臭いが漂ってきて、屋根の上から湯気の様な煙が漂っているのが見えた。心が何故かざわつきながら浪打駅まで来ると、そこから見えた景色は今までに見た事も無いような焼け野原だった。直ぐに目についたのが焼け焦げた人間の遺体。そして壊れたビルや炭になって立っている家の柱等。そしてそこからの道路も熱く熱せられていて、自転車のタイヤの融けるゴムの臭いがして来た。これ以上前には行けないので、暫くその場に居て、煙の間から動く物や焼け残った建物等を探したが、まるで地獄を見ているように希望はかき消されてしまった。<br><br>その場で、「妹は死んだのだ。」と思い、泣きながら家に帰って家族にそれを伝えた。そして仏壇に線香を上げ、「テル。もし生きていたら山に来い。」と書いた手紙も添えた。（聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/07gz87CnRdS-wCeKLK8AF3-kL7YPSuyxdMZ10m7h5BYYZbIVgassz-Mcf7ecXjslOkEYR8ZGP-VLChGYzPFnBFK9sTs6V6PGQaRt4X0tvvcShhTLIn4FX-gQaU4u8uJS</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7819843,40.8278391,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第9回　戦争「青森空襲の夜　柳町を逃げた（斎藤さんの話）」</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/ueUMxpOTqiFq5G3Yy0XA0siM_Mjkkfh3wVTD4n-kUuAADajVq-uCaixtBNuhn9lmNqGXhvC6iqkkIQHwQX-i3WbiXjmQaadWnwJZb1XheBedNuERX9YNItAmY8gxKSRy" height="200" width="auto" /><br><br>私は大町で金持ちのお嬢さんで育ちました。青森空襲の前に、爆弾を落とすとビラがまかれたんですよ。父は私達に山に逃げろと言ったんですが、わがままな私は言う事を聞かないで、その目も振り袖を着て過ごしていたんですよ。<br><br>そうしたら空襲警報のサイレンが聞こえたかと恩ったら、大きな爆音と共に、もう家の庭や屋根に焼夷弾が火の付いたまま落ちて来たんですよ。父や奉公人達はそれに水を掛けたりして走り回っていたのですが、父は私の世話係の女中をつかまえて、「娘を連れてお前の実家に逃げろ。」と言って私をその人に押し付けました。<br><br>その女中は「はい。」と言って私の腕を掴むと、火の手が上がっている町の中ヘ走り出しました。私は履いていた草履は脱げるし、疲れたので、「もう嫌、家に帰る。」と言うと、その女中は私の顔や頭をゴンゴン殴り、「死にたいのか。廻りを見なさい。火の中なんだよ。」と言うと、振り袖を私の頭に被せると、腰に腕を回して私を持ち上げた。そして「ぎやー」と悲鳴にも似た声を出して走り続けた。<br><br>熱い熱気と人々の叫び声を聞きながら私は気絶をしたらしく、気が付いたのは田舎道の草の上だった。そこから見えたのは赤々と燃える青森の町と、焼夷弾の落ちる花火の様な光景だった。そこから手を引かれて高田の女中の実家に着いたのは、真っ暗な夜中だった。次の日、父達もそこに来ました。（聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/ueUMxpOTqiFq5G3Yy0XA0siM_Mjkkfh3wVTD4n-kUuAADajVq-uCaixtBNuhn9lmNqGXhvC6iqkkIQHwQX-i3WbiXjmQaadWnwJZb1XheBedNuERX9YNItAmY8gxKSRy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.745458,40.8246729,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第10回　戦争「空襲の夜幸畑の家の庭から（小泉さんの話）」</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/PLeS6AXOlei8bYziDf13ZhVf4MJBaEY7hTlljgUSM64fnVB733skG41Tzf3IDn1VwGw_voSaxIYI8b6oyi179VaepeH44B5Q0ZrWUsBxhw2Q_SYMQoUJXK3aOsRr4fg" height="200" width="auto" /><br><br>幸畑で生まれて今までここに居るから、もう90年もいるけど、あんなにきれいな花火は見た事が無いと言えば語弊もあるかと恩うけど、実際の話、きれいだし恐ろしいし、もう二度とあんな物は見たくないと思った。<br><br>丁度夕方で夕涼みがてら庭に出たら、見た事もない大きな飛行機が、空を暗くするほど飛んで来て青森の方に飛んで行った。と思ったら、町の上空で、パット花火の様なものが作裂したかと思ったら、あっという間にあちこちから大の手が上がり、それでも、もうこれ以上はいらないでしょうと思う位それが続いて、余り怖くて家の中に一旦は逃げ込んだのですが、外の人達の声が聞こえて来るのでまた庭の柿の木の下に隠れるようにして見てみたら、もう青森の街全体が炎の渦巻になってしまっていた。それでもまだ焼夷弾を降らせているのが見えたので、凄く敵が憎たらしくて、気が付いたら奥歯をギリギリと噛んでいた。<br><br>そうこうしていたら、幸畑の高台にも町から人々が逃げて来て、見たら皆髪も着ている物も焦げてボロボロでした。よくそれでここまで逃げて来たなと、子供達の頭をなでながら今度は涙が止まらなくなって、もうあんな事は二度と起こって欲しくないな。世界中でそう恩ってくれれば、戦争は起きないのでしょうが、まだ人の痛みが分らない国が多いようだからな。備えだけは必要だと恩った。（聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/PLeS6AXOlei8bYziDf13ZhVf4MJBaEY7hTlljgUSM64fnVB733skG41Tzf3IDn1VwGw_voSaxIYI8b6oyi179VaepeH44B5Q0ZrWUsBxhw2Q_SYMQoUJXK3aOsRr4fg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7889367,40.7908176,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第11回　戦争「空襲で死んだはずの息子が（Yさんの話）」場所不明</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/0Mkk9Wo3VXyz3Xz_kWHCHZ7NALfnYnawI167ycwE7yGHfUmumZNzQy86DrLVxmNniZHizlxbt_VdF0Z6_q3NWCK2xL2oNM8JKD01XtJ7Su7mY-YZVqz-WWCax-mb8Qms-A" height="200" width="auto" /><br><br>私は戦後生まれなので、母から聞いた青森空襲の話ですが、当時私の家族は少し郊外に住んでいたそうです。兄は6～7歳、姉は3～4歳だったそうですが、兄はもう一人であちらこちらに遊びに行っていたそうです。<br><br>空襲当日は青森の友達の家に遊びに行くとの事で、母に、「早く帰って来なさいよ。」と言われているのに夕方になっても帰って来ず心配をしていると、空襲警報が突然鳴りだし、空を見上げると銀色の敵の爆撃機がいっぱい飛んで来て、青森市内に焼夷弾を何発もバラバラバラバラ落としたそうです。落とされた所から火の手が上がり、あっと言う間に炎の渦になってしまい、人々は郊外に逃げて来たのに自分の息子の姿だけは見当たらず、一晩中凄く心配をして待ち続けたそうです。<br><br>しかし朝になっても帰って来ないので、娘を背負って焼け跡の街に探しに行ったそうです。そうしたら途中でトラックに焼け死んだ方々の遺体を山の様に積み込むトラックと出会い、いやだったけどそこを通り抜けようとした時、その遺体の山の中に見覚えのある衣類を見つけたので、無我夢中で引っ張り出したら息子の顔が出て来たそうです。それを無理やりトラックから引き吊り下ろして息子の名前を何度も読んだら、息子が目を開けたので生きているのが分かってすごく嬉しかったそうです。衛生兵達も敵の飛行機にいつ襲われるかもしれないので、私の兄の生死を確認しないままトラックに積み込んだようですが、私の兄は本当に運が良かったと母は言っていました。（聞き書き：張山喜隆/平成29年1月）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/0Mkk9Wo3VXyz3Xz_kWHCHZ7NALfnYnawI167ycwE7yGHfUmumZNzQy86DrLVxmNniZHizlxbt_VdF0Z6_q3NWCK2xL2oNM8JKD01XtJ7Su7mY-YZVqz-WWCax-mb8Qms-A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7416439,40.8334892,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第12回　戦争「野内村も爆撃された」</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/VQNZCm56I8ITUA5YcEGqCvivir7E6-sT3w6CXxz3X0K8yTMb_mppEcRaPDctvgOOaJV9OjbicmTsYUX3xRsE8gMOgb55lFBcQVFLV7CufdSsgJDzUsdcUfEig1HdEPi7JQ" height="200" width="auto" /><br><br>母の実家のある野内村は、石油の備蓄基地として、戦前から石油タンクが何基も建っており、外国人の家族も往んでいて、日曜日になると、外国の婦人などが白い馬に乗って村中を散歩したり、子供たちを遊ばせたりして、いたって平和な村だったそうです。<br><br>祖父などは、習った事のない英語で、挨拶程度は交わしていたそうである。しかし戦争が始まると、そこは日本軍が管理する事になり、外国人達は誰１人として居なくなってしまった。空襲の時、村の中にもけたたましいサイレンが鳴り響き、祖父母は子供達を安全な持ち山に避難させることにしたそうだが、どうしても三男が一人、家を守ると言って付いて来なかったそうです。<br><br>仕方なくの別の子供達を連れて村外れまで来ると、飛行機が急降下して、石油タンクに爆弾投下しているのが見えたそうです。子供達を急がせて山道にかかった時、青森が焼けているのが見えたそうです。そこで祖母は、勤めに行っている娘はそこで亡くなっただろうなと思い、燃える青森の方に向かって手を合わせたそうです。やっと山にある小屋に着いた頃はもう暗くなり、明かりも点けないでいたら、そこに、三男を連れた長男が現れ、やっと少しほっとして、お櫃に入れて持って来たご飯に、味噌を付けたおにぎりを作り、これが最後のご飯かなと思いながら食べたそうです。（聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/VQNZCm56I8ITUA5YcEGqCvivir7E6-sT3w6CXxz3X0K8yTMb_mppEcRaPDctvgOOaJV9OjbicmTsYUX3xRsE8gMOgb55lFBcQVFLV7CufdSsgJDzUsdcUfEig1HdEPi7JQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.8229309,40.856748,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第13回　戦争「袰月海岸に泳いで来た、油まみれの兵隊たち」</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/Xi6wSNSNa0JuaNeBnhTYnTQf6yU5mHdfXj-UYliqgpzyaYAGS-AiKRC9Od9OuSlmRjHv4rnz7N8tc9Ef6p2op_-MyCOaTvWvmAauN_5UFnNAycVZW_Yao0fontgjD6WF7w" height="200" width="auto" /><br><br>私は昭和8年生まれだから、昭和20年の戦争の時は小学校の上級生でした。その当時北海道が見える津軽半島先端近くの袰月にいましたので、毎日海を見て生活していました。<br><br>夏だったと思いますが、ある日沖を行く船が小さい飛行機に爆弾を落とされて沈んだんですよ。部落の人達が海岸に出て、「あれあれ、どうしましょう」と走り回っていたけど、小さい飛行機が機関銃を撃って来るので船も出せないでいると、突然海の中から真っ黒に油をかぶった男が現れてびっくりしましたよ。良く海に目を凝らして見たら、燃料の油が海に流れ出して海が真っ黒になり、その中を兵隊たちが泳いでこの海岸を目指しているのが見え、皆で砂浜まで走って行って兵隊を助けましたよ。全部で20人ぐらいはいたと思うけど、中には怪我をして血を流している人もいて、それに油まみれだから大変だったんですよ。砂でこすったり藁で拭いたりして何とか取ったみたいだけど、涙ボロボロ流して泣いている人もいたし、海に向かって号令をかけて名前を呼んでいる人もいたし、これが戦争なんだろうなと思って見ているしかなった。<br><br>後で部落の人達がご飯を炊いて食べさせたようだけど、どうなったのかは子供だったから良くわからないけど、海の中から真っ黒な兵隊が何人も砂浜に上がって来たのは、今でもはっきりと覚えていますよ。のどかな所だったんだけど、急に戦争がおっかない物だと思いましたよ。（聞き書き：張山喜隆：平成29年2月10日）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/Xi6wSNSNa0JuaNeBnhTYnTQf6yU5mHdfXj-UYliqgpzyaYAGS-AiKRC9Od9OuSlmRjHv4rnz7N8tc9Ef6p2op_-MyCOaTvWvmAauN_5UFnNAycVZW_Yao0fontgjD6WF7w</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.5375922,41.2176777,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第14回　戦争「莨町小学校近くの防空壕（Fさんの話）」</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/8Twpfqt8vYmtpJ56yK8i6afFBt9NXLJ9BMSkF2jPRuDR1cEkx2McfU1lL5CbptQV32xp24QefGEkjmQjQI57wTMlb1Obb1gEeSFCySA7Wqv9rDGZt5JLHhXvSvFgknca6Q" height="200" width="auto" /><br><br>小学生だったので、青森空襲の2日前まで一家で青森市郊外の八重田矢作に疎開していたのですが、突然青森に帰る事になって青森空襲に遭ってしまったのさ。<br><br>当時塩町で小さいけども下宿屋をしていましたので、その人達と一緒に逃げた逃げた。そして莨町小学校の防空壕まで行ったら、莨町の人でないから駄目だし、それにもう防空壕の中は満員で中には入らないと言われて、私達家族は浦町駅の方に、下宿の人達は海の方に分かれて逃げましたよ。浦町駅の方はもうすでに燃えていたので熱くて熱くて、それでも道路が少し広かったみたいで、火をくぐるようにして山の方を目指して逃げましたよ。着ている物とか髪がブスブスと焦げてくるのが分かるんだはんで（分かるほどだった）。<br><br>後で聞いたら、莨町小学校近くの防空壕で、随分多くの人が亡くなったんだって。そこに入れないと断られて逃げたから今こうして生きていられると思ったら、あれの方が幸運だったんだべの（幸運だったのでしょうね）。<br><br>下宿の人達も生きて再会してさ、しばらくは野内川の橋の近くに小さい小屋を建てて、その人達と一緒に暮らしたよ。<br><br>今考えたら、よくあれで暮らしたものだと思う。・・・・昔の人は辛抱強かったのー。（絵・聞き書き：張山喜隆/平成29年2月15日）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/8Twpfqt8vYmtpJ56yK8i6afFBt9NXLJ9BMSkF2jPRuDR1cEkx2McfU1lL5CbptQV32xp24QefGEkjmQjQI57wTMlb1Obb1gEeSFCySA7Wqv9rDGZt5JLHhXvSvFgknca6Q</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7583702,40.827561,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第15回　戦争「何日も燃えた野内の海（Kさんの話）」</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/lKw-mIJ224H12pTlTNE459LhIiT0BNH_AnF_vu-OihYtJZ8B3DP55cr54kCUhHgt4CeRvho3_C65-oezLcAeCW2qJVhtER3N3w_fdjxMMnQSHKMwwcbkeGKiHqTGizYY" height="200" width="auto" /><br><br>戦争当時はまだ小学生で、青森市三内沢部に住んでいたのですが、戦争だと聞いてもピンと来ていなかった。<br><br>ある日外で遊んでいたら、飛行機が何機も編隊で飛んできたので、子供達がそれに向かって「万歳！万歳！」って叫んで手を振ったのですが、それが敵の飛行機で、野内の石油タンクに爆弾を落としに来たんだって、後から聞いてびっくりした。それまでは日本の飛行機もあんまり飛ばなかったので見た事もなかったので、いっぱい来たから日本の飛行機だと、・・・子供だもの、思ってしまったのさ（子供だから、そう思ってしまった）。<br><br>その後野内の石油タンクが爆撃されて、逃げる人にも機関銃を撃たれて何人も亡くなったと大人から聞いて、怖くて怖くて、それからと言うもの、飛行機が来れば隠れるものだと思うようになった。野内の石油タンクから漏れた油が海に流れ込んで、海が何日も真っ赤に燃えて、黒い煙が空さ立ち込めたんだってのー。夜になればこっちからでもずっと見えていたんだど（見えていたそうだ）。敵の飛行機に「万歳！万歳！」って叫んで手を振った事が、子供ながらに大した（凄く）悔やんだものだった。<br><br>青森空襲の時は三内の淵辺りから焼夷弾を落とされて、疎開して来た人達も焼け出されて恐ろしかった。そんな焼け出された人達、・・・後どこへ行ったものだったんだべなー（何処へ行ったのでしょうね？）。（絵・聞き書き：張山喜隆/平成29年2月24日）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/lKw-mIJ224H12pTlTNE459LhIiT0BNH_AnF_vu-OihYtJZ8B3DP55cr54kCUhHgt4CeRvho3_C65-oezLcAeCW2qJVhtER3N3w_fdjxMMnQSHKMwwcbkeGKiHqTGizYY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.8223033,40.8565796,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>【伝えたい記憶】第16回　戦争「爆撃された野内の石油備蓄基地」</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/3SUTAEhTezTCLRUNioTqW1uqmh-ThkRMP_CiZbPmspe0CNrc5WUZujiHQNeKj-yUDY1mdatnH5-sJnYITB-WTriV4JbB_MfGL2cr5hoFdiz4l5qchtQPE98Oqf_0Dkzp" height="200" width="auto" /><br><br>空襲警報が村中に鳴り響き、一家で持ち山に避難しようとしている時、三男だけが、腰に木刀と出刃包丁を差して動こうとしない。いくら長男が殴ったり引っ張ったりしても、家を守るんだと言って、居間の板敷きの床に犬の字に寝てしまったので、仕方なく長男も腕組みをしてそこに胡坐をかいて座った。すると、屋根の上を敵の飛行機が飛んで行ったと思ったら、直ぐに爆弾が破裂する音が聞こえた。二人は慌てて裏に飛び出して見ると、石油基地の辺りで砂煙が上がっていた。頭上を見ると、何機もの飛行機が丁度急降下して来ているのが見えた。そして家の上で爆弾を離すと、それは石油基地の方へ飛んで行き、そこでまた犬きな爆音がして土煙が立った。それを見ていたら、敵の飛行機に自分達が見つかり、機銃掃射されたので、慌てて家の中に逃げ込み、コンクリートでできた流し台と、井戸の陰に身を隠した。飛行機は屋根に弾を撃ち込んでいるのか、それとも薬莢が落ちているのか分からないが、ドドドドドドと絶え間なく音が鳴り、三男は長男に、「出刃包丁じゃ無理だな。山に逃げるか」と言ったそうだ。窓からそっと空を見て、隙を見つけて外に出て、爆弾の落ちる音と破裂する音を聞きながら、山に逃げ込んだそうです。石油基地は赤々と燃え、黒い煙は雲より高くまで上がっていたそうです。（絵・聞き書き：張山喜隆）]]></description>
+			<styleUrl>#icon-503-F4EB37</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/3SUTAEhTezTCLRUNioTqW1uqmh-ThkRMP_CiZbPmspe0CNrc5WUZujiHQNeKj-yUDY1mdatnH5-sJnYITB-WTriV4JbB_MfGL2cr5hoFdiz4l5qchtQPE98Oqf_0Dkzp</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.8227324,40.8565391,100</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kushu.kml</name>
+	<StyleMap id="icon-503-777777">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-503-777777-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-503-777777-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-503-777777-normal">
+		<IconStyle>
+			<color>80ffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="icon-503-777777-highlight">
+		<IconStyle>
+			<color>80ffffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>空襲痕跡現存地</name>
+		<Placemark>
+			<name>青森製氷東側外壁</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/8ivqrs6zcMWoORwa6v_4GFrLKTcROdLVgcNzyXRuTlOA-t75HbzbxnUST0oMuNZFNjz99_tza3U_n_CklEA" height="200" width="auto" /><br><br>石造りの製氷庫外壁に、空襲の火熱によって赤変した痕跡が見られる。]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/8ivqrs6zcMWoORwa6v_4GFrLKTcROdLVgcNzyXRuTlOA-t75HbzbxnUST0oMuNZFNjz99_tza3U_n_CklEA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7484165,40.828592,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>カトリック教会本町教会西塀</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Gk03PUxfrvQfewB-3kODOt3eBkGJKHXKVeouD9ks95s5jazjptpN2E-AEYLzdNBEwH7A6tBj-NEY7EmdhdWE" height="200" width="auto" /><br><br>西塀にくっきりと、空襲の痕跡が見えている。（写真3枚）<br><br><img src="https://lh6.googleusercontent.com/proxy/mIEVMhg4O7v2mXPm7hug5w6MRTyJHM0qgjMwD5CR8lSLF6qIif0TZzMeTKFCJpjmZZxK9_tGLOO01CV2FCqD" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/proxy/v8LixJH33-W6Beo90x_9kL2c-bfXZ2wTGUQ1EEUAejpLjZk0emO5nP-0yTKLUX3h7NVkWsSII4qu0_YQwfXV" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/Gk03PUxfrvQfewB-3kODOt3eBkGJKHXKVeouD9ks95s5jazjptpN2E-AEYLzdNBEwH7A6tBj-NEY7EmdhdWE https://lh6.googleusercontent.com/proxy/mIEVMhg4O7v2mXPm7hug5w6MRTyJHM0qgjMwD5CR8lSLF6qIif0TZzMeTKFCJpjmZZxK9_tGLOO01CV2FCqD https://lh6.googleusercontent.com/proxy/v8LixJH33-W6Beo90x_9kL2c-bfXZ2wTGUQ1EEUAejpLjZk0emO5nP-0yTKLUX3h7NVkWsSII4qu0_YQwfXV</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7522199,40.8282653,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>しあわせプラザ正面縁石</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/OlY29EfzvoPmyBUVr0KQOd-hmyM6N6AlbMZRoqSS2cstFRAZFGPfkNi25fU_sc3NBzas3o4QQjibOm8" height="200" width="auto" /><br><br>当時は著名な建築家の設計として名高い、市公会堂（白黒写真）であった。空襲を乗り越え、米進駐軍の司令部となった。戦後、道路拡幅のため、取り壊された。現在は、縁石にその痕跡を残すのみ。<br><br><img src="https://lh5.googleusercontent.com/proxy/4lMDd3GguB2GNilKpf8uSWs8NM_0rwUM8FgiMX2ApUeMiP5suGInzJy4nlTwFq8eZIyd-H1Q3NljUsV9ncA" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/OlY29EfzvoPmyBUVr0KQOd-hmyM6N6AlbMZRoqSS2cstFRAZFGPfkNi25fU_sc3NBzas3o4QQjibOm8 https://lh5.googleusercontent.com/proxy/4lMDd3GguB2GNilKpf8uSWs8NM_0rwUM8FgiMX2ApUeMiP5suGInzJy4nlTwFq8eZIyd-H1Q3NljUsV9ncA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.751316,40.8292273,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>孔雀園外壁</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/gB332MzyrkuObNDnXpmYY65k5idd0gzPqw_KjCVb-L_6bulS9PyRWbKyV1RQuLuz2HA2DWEnqh7rGA2hcQ" height="200" width="auto" /><br><br>当時は、勧業銀行青森支店であった。空襲を乗り越え、その後の道路拡幅で東側半分が削られた。西側は戦前の面影を残している。空襲後、地下室には共同、朝日、毎日、読売の各新聞社が一時同居した。<br><br><img src="https://lh6.googleusercontent.com/proxy/Y7G-pKLTGX3-eWQa2ylLU8z9X5zFEhlkr2ZCRQ8Fi4iKNv0kTWZlwsQ4tetezMrgahiz8zATb8ycPu5wFw" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/gB332MzyrkuObNDnXpmYY65k5idd0gzPqw_KjCVb-L_6bulS9PyRWbKyV1RQuLuz2HA2DWEnqh7rGA2hcQ https://lh6.googleusercontent.com/proxy/Y7G-pKLTGX3-eWQa2ylLU8z9X5zFEhlkr2ZCRQ8Fi4iKNv0kTWZlwsQ4tetezMrgahiz8zATb8ycPu5wFw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7501251,40.8262885,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>県立郷土館大ホール</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/wNgCLc4yXFpt9MkX3gI7zRNpdA6E3fDdKVbkidJbsY250dRr8hipYt9KaQSM-2tDmWGwX2tPI_Se8NNZQ2E" height="200" width="auto" /><br><br>当時は、青森銀行本店。その前は、昭和初期に名棟梁堀江佐吉の息子によって建てられた第五十九銀行青森支店。丁寧に補修され、外観に痕跡を見ることは出来ない。]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/wNgCLc4yXFpt9MkX3gI7zRNpdA6E3fDdKVbkidJbsY250dRr8hipYt9KaQSM-2tDmWGwX2tPI_Se8NNZQ2E</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7483709,40.8271409,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>藤聖母園体育館前塀</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/LSZbVld9nCxqhOXnlgKwyLi8o6s-uqbpcD5Ps4imh5roKk1kB3HNaPo_jqGAt5EpZVYexwHTpUHVeVlaXBFzd17k" height="200" width="auto" /><br><br>当時は、青森歩兵第五連隊将校官舎があった。塀は当時からのものが残されている。外側はペンキが塗られているが、内側は火熱を受け、変色している。<br><br><img src="https://lh3.googleusercontent.com/proxy/6VCgL0U-rkJfKio-vnMJ5BQUlmgIUfoW1RbFvAByacuAXmeShSpnlCJNP6P6RARkBKQFHx5cUJ9mxwj5NfAwSBwl" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/LSZbVld9nCxqhOXnlgKwyLi8o6s-uqbpcD5Ps4imh5roKk1kB3HNaPo_jqGAt5EpZVYexwHTpUHVeVlaXBFzd17k https://lh3.googleusercontent.com/proxy/6VCgL0U-rkJfKio-vnMJ5BQUlmgIUfoW1RbFvAByacuAXmeShSpnlCJNP6P6RARkBKQFHx5cUJ9mxwj5NfAwSBwl</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7638955,40.813655,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧制青森中学校正門</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/MEz7uZhVVHDd69gSKxFckkfafqndgmB60kUq3EWrtHRpdZg9vumZQe8C3CelKYpx2kCOT03MWWetfIel" height="200" width="auto" /><br><br>太宰治も通った旧制青森中学校（白黒写真）は、空襲で校舎は焼失した。正門の一部は現存し、焼け焦げた跡が残っている。<br><br><img src="https://lh3.googleusercontent.com/proxy/ZrdDpGOwXMOf1UUL2Q3-80bdz8YtkoblxL3xKGR8vMeNsbtXipo-Rc-AAuyFc46JzlW4ibUrXpypnpcH" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/MEz7uZhVVHDd69gSKxFckkfafqndgmB60kUq3EWrtHRpdZg9vumZQe8C3CelKYpx2kCOT03MWWetfIel https://lh3.googleusercontent.com/proxy/ZrdDpGOwXMOf1UUL2Q3-80bdz8YtkoblxL3xKGR8vMeNsbtXipo-Rc-AAuyFc46JzlW4ibUrXpypnpcH</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7771027,40.8276524,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>蓮華寺</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/1dH6zbU5GCVhfCyWuHT-WMpm7o8IFHUi0-o9iJ9VBL2JdI_d9u5RN1w3ird4wkKeQ8zQ0_6IwYOCRe0MnR4" height="200" width="auto" /><br><br>当時は、珍しいコンクリート作りのお寺だったので、焼失を免れた。現在は、当時の痕跡を見つけることは出来ない。<br><br><img src="https://lh4.googleusercontent.com/proxy/lF7ritBee983UH-lxp4FpK9TurXNnHnNs3GWWGFh5zqM8yorPiUjVaPvpbzg81gLHrf7bFXX8frlIlfBQw" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/1dH6zbU5GCVhfCyWuHT-WMpm7o8IFHUi0-o9iJ9VBL2JdI_d9u5RN1w3ird4wkKeQ8zQ0_6IwYOCRe0MnR4 https://lh4.googleusercontent.com/proxy/lF7ritBee983UH-lxp4FpK9TurXNnHnNs3GWWGFh5zqM8yorPiUjVaPvpbzg81gLHrf7bFXX8frlIlfBQw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7493526,40.8242629,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>蓮心寺蔵</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/PT25p3ISbN1Fa2xysxuOVGgLu9SoauoiSrrTe8INdgEJ4HwnlocZRhB7MTKLxdBPpXaWKO3SkP_mwvYI3L4oNPnniQ" height="200" width="auto" /><br><br>青森市本町にある蓮心寺境内にひっそりと佇んでいるお蔵。外壁に空襲の焼け跡が残る。<br><br><img src="https://lh6.googleusercontent.com/proxy/YRjuurDje18BiTq8cIZBOzEzko3HP7Rj_rDOtbaH6cT10iKV_WqlSMh7AqgcY5BRIi-NVPcCfhpIANfHCuN6gYKlWQ" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/PT25p3ISbN1Fa2xysxuOVGgLu9SoauoiSrrTe8INdgEJ4HwnlocZRhB7MTKLxdBPpXaWKO3SkP_mwvYI3L4oNPnniQ https://lh6.googleusercontent.com/proxy/YRjuurDje18BiTq8cIZBOzEzko3HP7Rj_rDOtbaH6cT10iKV_WqlSMh7AqgcY5BRIi-NVPcCfhpIANfHCuN6gYKlWQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7481509,40.8246769,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>諏訪神社石灯籠</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/BVXXCPGYRuv1Jp7nzlGcMP8srlXQQ0JB82HGx_6S6bb6c3BkOI4ws3wCAJ5iT65p6i0xQgQhN5IobHxzmQPXwwI" height="200" width="auto" /><br><br>昭和15年に青森市堤町若松円太郎より奉納された石灯籠。外面が黒く焦げている。台座の鏝絵は、二代目ねぶた名人北川啓三である。市民には殆ど知られていない。<br><br><img src="https://lh3.googleusercontent.com/proxy/1FAp8sB8T4nq1mGPhY_Itko0J5RuPDL38t2wtLgTLHdjshBXiACbqy36diojK1cDa_gPDhmo0ZriQEOpCRe2bzo" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/BVXXCPGYRuv1Jp7nzlGcMP8srlXQQ0JB82HGx_6S6bb6c3BkOI4ws3wCAJ5iT65p6i0xQgQhN5IobHxzmQPXwwI https://lh3.googleusercontent.com/proxy/1FAp8sB8T4nq1mGPhY_Itko0J5RuPDL38t2wtLgTLHdjshBXiACbqy36diojK1cDa_gPDhmo0ZriQEOpCRe2bzo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7628602,40.8238691,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>諏訪神社鳥居</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/fS4CwrexjTzy_9uHv4ou8hE5I-OUOiP95SfyHJESEcjhWxPXR_9gPfxX76bUtW-SXXWqUO_2k8u1o29rsYxE" height="200" width="auto" /><br><br>諏訪神社鳥居も戦前からのものである。当時は、国道側にあった。戦後、道路整備の際、現在地に移設された。痕跡は、はっきりしない。]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/fS4CwrexjTzy_9uHv4ou8hE5I-OUOiP95SfyHJESEcjhWxPXR_9gPfxX76bUtW-SXXWqUO_2k8u1o29rsYxE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7626805,40.8238935,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>善知鳥神社鳥居・石灯籠</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/-cKXsj0OHndDiPwmJLOTJqbjc3ZSOjlJA2X72bA_xJqQNtvg6gw0050m2rDAUC0OkEwTjyG6eDz6tg" height="200" width="auto" /><br><br>大きな鳥居と石灯籠４基（明治13年建立）が現存している。<br><br><img src="https://lh4.googleusercontent.com/proxy/MuacoykhCwhyNXGHVOYhYJaf_QKgB76UWB1ScvjkY4rKum_MqW9gfQJS0HoatGO6uxJieGGzzawHlA" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/-cKXsj0OHndDiPwmJLOTJqbjc3ZSOjlJA2X72bA_xJqQNtvg6gw0050m2rDAUC0OkEwTjyG6eDz6tg https://lh4.googleusercontent.com/proxy/MuacoykhCwhyNXGHVOYhYJaf_QKgB76UWB1ScvjkY4rKum_MqW9gfQJS0HoatGO6uxJieGGzzawHlA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.743795,40.8264427,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>善知鳥神社狛犬</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/5acdtvYWGaNjl27VpUWeerueyfY3sHqjJAnBHEdml7JWa5_evmIBdMFLyM5rgGnrYs5NVfDHWPXcSw" height="200" width="auto" /><br><br>狛犬一対が戦前からのものだという。腹部には、黒く焦げた痕跡が残っている。<br><br><img src="https://lh4.googleusercontent.com/proxy/1kuF3NEJzfBXdL_pLybJcDyLBCI2bJXEfhI_e1w7UkcmD2KJ5qIGgvybZto0B5v_ygBnwtJ2KbvKww" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/5acdtvYWGaNjl27VpUWeerueyfY3sHqjJAnBHEdml7JWa5_evmIBdMFLyM5rgGnrYs5NVfDHWPXcSw https://lh4.googleusercontent.com/proxy/1kuF3NEJzfBXdL_pLybJcDyLBCI2bJXEfhI_e1w7UkcmD2KJ5qIGgvybZto0B5v_ygBnwtJ2KbvKww</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7429743,40.8266092,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>廣田神社狛犬</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/nO32j5RKcdyiuOWeOssUWrcd5Wmi-5oeO19xAH4FLHpJOQRI5v7Bz7gIqyxWMaKw68v4G_wcXvlkxPmR" height="200" width="auto" /><br><br>大正15年に寄進された狛犬は、境内に現存する。狛犬の間にあった広い参道は、戦後の区画整理で、市道となった。]]></description>
+			<styleUrl>#icon-503-777777</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/nO32j5RKcdyiuOWeOssUWrcd5Wmi-5oeO19xAH4FLHpJOQRI5v7Bz7gIqyxWMaKw68v4G_wcXvlkxPmR</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7427543,40.8229273,100</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

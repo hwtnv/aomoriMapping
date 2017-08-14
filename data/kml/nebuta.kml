@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>nebuta.kml</name>
+	<Style id="line-F4EB37-3131-highlight">
+		<LineStyle>
+			<color>ff0ae7ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-F4EB37-3131-normal">
+		<LineStyle>
+			<color>ff0ae7ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-F4EB37-3131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-F4EB37-3131-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-F4EB37-3131-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>青森ねぶた運行コース</name>
+		<Placemark>
+			<name>ねぶた運行コース</name>
+			<description>2017年のコース。時代によって違いがある。コース上にある空襲証言などをご覧いただき、犠牲者への鎮魂をこめて跳ねるのも意義があると思います。国道は戦後拡幅され今の広さになった。特に市役所前の道路には、多くの焼死体があったという。</description>
+			<styleUrl>#line-F4EB37-3131</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					140.7546419,40.8256836,0 140.754717,40.8237027,0 140.750345,40.8233861,0 140.7480597,40.8231912,0 140.7452005,40.8229395,0 140.7391816,40.8238407,0 140.7396054,40.8252899,0 140.7398576,40.8265726,0 140.7438272,40.8258014,0 140.7455814,40.8255578,0 140.7503557,40.8254563,0 140.7545346,40.825708,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

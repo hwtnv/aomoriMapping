@@ -233,10 +233,17 @@
 
 		var kmlDataArray = [];
 		//KMLデータを登録．kmzでもOK
-		kmlDataArray[0] = new kmlData("青森空襲地図", 'data/kml/aomori.kml');
-		//kmlDataArray[1] = new kmlData("避難場所", 'data/kml/hinanbasyo.kml');
-		//時間情報入りのKML
-		//kmlDataArray[2] = new kmlData("タイムスパン", 'data/kml/timeSpans.kml');
+		kmlDataArray[0] = new kmlData("焼失概略範囲", 'data/kml/shoshitsu.kml');
+		kmlDataArray[1] = new kmlData("張山喜隆空襲画", 'data/kml/kushuga.kml');
+		kmlDataArray[2] = new kmlData("空襲証言朗読", 'data/kml/rodoku.kml');
+		kmlDataArray[3] = new kmlData("空襲証言録音", 'data/kml/rokuon.kml');
+		kmlDataArray[4] = new kmlData("防空壕設置場所", 'data/kml/bokugo.kml');
+		kmlDataArray[5] = new kmlData("著名人罹災場所", 'data/kml/chomeijin.kml');
+		kmlDataArray[6] = new kmlData("被害写真", 'data/kml/higai.kml');
+		kmlDataArray[7] = new kmlData("空襲痕跡現存地", 'data/kml/kushu.kml');
+		kmlDataArray[8] = new kmlData("空襲被災樹木", 'data/kml/jumoku.kml');
+		kmlDataArray[9] = new kmlData("青森ねぶた運行コース", 'data/kml/nebuta.kml');
+
 
 		function loadKml() {
 			var i = 0;

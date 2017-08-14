@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>rodoku.kml</name>
+	<StyleMap id="icon-960-DB4436">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-960-DB4436-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-960-DB4436-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-960-DB4436-normal">
+		<IconStyle>
+			<color>cc0600fc</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="icon-960-DB4436-highlight">
+		<IconStyle>
+			<color>cc0600fc</color>
+			<scale>1.28333</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>空襲証言朗読</name>
+		<Placemark>
+			<name>東奥日報社ー本多徳治さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Ww2WcGeDmQg"><img src="http://img.youtube.com/vi/Ww2WcGeDmQg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Ww2WcGeDmQg">https://www.youtube.com/embed/Ww2WcGeDmQg</a><br><br>当時、東奥日報社の防衛副隊長でした。流石、記者の観察は事細かい。秀逸な体験記録です。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Ww2WcGeDmQg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.740968,40.8256552,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>三内地区ー福山正晴さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=szyDgmKaFEI"><img src="http://img.youtube.com/vi/szyDgmKaFEI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/szyDgmKaFEI">https://www.youtube.com/embed/szyDgmKaFEI</a><br><br>]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/szyDgmKaFEI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7088566,40.8245917,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>橋本小学校ー森多美さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=syCKJTsfjzY"><img src="http://img.youtube.com/vi/syCKJTsfjzY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/syCKJTsfjzY">https://www.youtube.com/embed/syCKJTsfjzY</a><br><br>当時、橋本小学校教諭でした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/syCKJTsfjzY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7541323,40.8245186,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森駅前ー義之勇蔵さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Nbph6v5Vaqw"><img src="http://img.youtube.com/vi/Nbph6v5Vaqw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Nbph6v5Vaqw">https://www.youtube.com/embed/Nbph6v5Vaqw</a><br><br>当時、青森駅前町会副会長、警防団長でした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Nbph6v5Vaqw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7355714,40.8279933,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>油川沖海上ー三浦登美さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=TGO_UTnkEVQ"><img src="http://img.youtube.com/vi/TGO_UTnkEVQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/TGO_UTnkEVQ">https://www.youtube.com/embed/TGO_UTnkEVQ</a><br><br>船で平舘へ疎開途中の娘さんを、敵機の機銃掃射で亡くす。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/TGO_UTnkEVQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7307434,40.8649779,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浜町神病院ー松田栄子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Bpc7CjBbpRQ"><img src="http://img.youtube.com/vi/Bpc7CjBbpRQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Bpc7CjBbpRQ">https://www.youtube.com/embed/Bpc7CjBbpRQ</a><br><br>神病院に入院していた義兄の看護中に空襲に遭う。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Bpc7CjBbpRQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7459784,40.8279121,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>長島小学校ー水木ツネさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Y0247Z24d-c"><img src="http://img.youtube.com/vi/Y0247Z24d-c/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Y0247Z24d-c">https://www.youtube.com/embed/Y0247Z24d-c</a><br><br>当時、長島小学校教諭でした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Y0247Z24d-c</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7409251,40.8211574,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森師範学校ー西舘庄吉さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=1N0DYBb6Cok"><img src="http://img.youtube.com/vi/1N0DYBb6Cok/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/1N0DYBb6Cok">https://www.youtube.com/embed/1N0DYBb6Cok</a><br><br>当時、青森市警備のための兵隊。師範学校を兵舎として使用していた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/1N0DYBb6Cok</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7751608,40.8234429,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>古川跨線橋ー奈良恵代子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Kuofkh1X-gY"><img src="http://img.youtube.com/vi/Kuofkh1X-gY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Kuofkh1X-gY">https://www.youtube.com/embed/Kuofkh1X-gY</a><br><br>空襲の翌日、青森に引越してきて、市内の惨状を見る。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Kuofkh1X-gY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7320523,40.824884,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>古川付近他ー田代苗美さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=ok2hmEqi-Gs"><img src="http://img.youtube.com/vi/ok2hmEqi-Gs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ok2hmEqi-Gs">https://www.youtube.com/embed/ok2hmEqi-Gs</a><br><br>当時、日赤の看護婦さんでした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/ok2hmEqi-Gs</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7340908,40.8245755,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森市立第一中学校ー楢木国男さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=nd1ykTd1il4"><img src="http://img.youtube.com/vi/nd1ykTd1il4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/nd1ykTd1il4">https://www.youtube.com/embed/nd1ykTd1il4</a><br><br>当時、旧制中学校2年生でした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/nd1ykTd1il4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7716954,40.8280826,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森市内ー菊池文子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=t3OmpQ9oeAo"><img src="http://img.youtube.com/vi/t3OmpQ9oeAo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/t3OmpQ9oeAo">https://www.youtube.com/embed/t3OmpQ9oeAo</a><br><br>教育は恐ろしいと述懐している。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/t3OmpQ9oeAo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7414508,40.8245267,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>荒川小学校ー工藤フサさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=ruH5gjUxH3Y"><img src="http://img.youtube.com/vi/ruH5gjUxH3Y/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ruH5gjUxH3Y">https://www.youtube.com/embed/ruH5gjUxH3Y</a><br><br>当時、荒川国民学校の教師でした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/ruH5gjUxH3Y</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7412577,40.7880801,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森県庁ー金井元彦さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=UNWs_SfxSwY"><img src="http://img.youtube.com/vi/UNWs_SfxSwY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UNWs_SfxSwY">https://www.youtube.com/embed/UNWs_SfxSwY</a><br><br>当時の青森県知事の証言です。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/UNWs_SfxSwY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7402492,40.8247054,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森市内ー淡谷悠蔵さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=mIKlnimVzIU"><img src="http://img.youtube.com/vi/mIKlnimVzIU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mIKlnimVzIU">https://www.youtube.com/embed/mIKlnimVzIU</a><br><br>こうした悲嘆をふたたび繰り返さないために、たじろがず、その悲惨の事実を思い返して伝えるのは体験者の義務である。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/mIKlnimVzIU</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7416439,40.8239097,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森衛戍病院ー及川喜代江さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=mJRKlqyzodw"><img src="http://img.youtube.com/vi/mJRKlqyzodw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mJRKlqyzodw">https://www.youtube.com/embed/mJRKlqyzodw</a><br><br>当時、青森衛戍病院の看護婦さんでした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/mJRKlqyzodw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7690883,40.8074266,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中央古川地区ー石村サキさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=tX850Pv3PBI"><img src="http://img.youtube.com/vi/tX850Pv3PBI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/tX850Pv3PBI">https://www.youtube.com/embed/tX850Pv3PBI</a><br><br>当時、ご夫婦で住んでいた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/tX850Pv3PBI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7359469,40.8264346,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧濱町通りー成田堅護さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=zFPgmP-V8RI"><img src="http://img.youtube.com/vi/zFPgmP-V8RI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/zFPgmP-V8RI">https://www.youtube.com/embed/zFPgmP-V8RI</a><br><br>当時、旧制弘前工業学校3年生。青森造船鉄工所に学徒動員。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/zFPgmP-V8RI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7496476,40.8278391,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>橋本小学校付近ー東義寿さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=x_-LlKuPh-A"><img src="http://img.youtube.com/vi/x_-LlKuPh-A/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/x_-LlKuPh-A">https://www.youtube.com/embed/x_-LlKuPh-A</a><br><br>当時、青森県立女学校生の娘さん2人を防空壕でなくしている。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/x_-LlKuPh-A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7546633,40.8249611,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>八甲通りー後藤重吉さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Ayoawt30fbc"><img src="http://img.youtube.com/vi/Ayoawt30fbc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Ayoawt30fbc">https://www.youtube.com/embed/Ayoawt30fbc</a><br><br>建物疎開の後、青森空襲に遭遇。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Ayoawt30fbc</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7393479,40.8245755,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東奥日報社付近ー馬渡三太郎さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=bl0atT3CRhY"><img src="http://img.youtube.com/vi/bl0atT3CRhY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/bl0atT3CRhY">https://www.youtube.com/embed/bl0atT3CRhY</a><br><br>当時、長谷川酒店隣で、和裁を営んでいた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/bl0atT3CRhY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7413542,40.8258379,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森女子師範学校ー渋谷典子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=u8E6wTrjLxk"><img src="http://img.youtube.com/vi/u8E6wTrjLxk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/u8E6wTrjLxk">https://www.youtube.com/embed/u8E6wTrjLxk</a><br><br>当時、青森師範学校女子部本科生でした。100余名の寄宿舎生全員が助かる。堤町→青森医専（野脇）→浪打小学校。2枚目写真は堤川周辺、奥に青森医専。<br><br><img src="https://lh3.googleusercontent.com/proxy/Aq-e88K_GQy0cSKe85Xs-UyON0hR2uCvRepD85gCwwbofcdy2ilMv5NAFaosefWZueUFfqwaJxsDjGM94aFQDNYL5A" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/u8E6wTrjLxk https://lh3.googleusercontent.com/proxy/Aq-e88K_GQy0cSKe85Xs-UyON0hR2uCvRepD85gCwwbofcdy2ilMv5NAFaosefWZueUFfqwaJxsDjGM94aFQDNYL5A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7580054,40.8243481,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森駅ー山下三郎さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=uMvjXvgCzg0"><img src="http://img.youtube.com/vi/uMvjXvgCzg0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/uMvjXvgCzg0">https://www.youtube.com/embed/uMvjXvgCzg0</a><br><br>北海道への旅行中、偶然に青森空襲に遭遇！空襲時の青森駅の状況がわかる貴重な証言。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/uMvjXvgCzg0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7341981,40.8295277,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>野脇・高坂町ー秋元省三さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Vgy81rtZiVM"><img src="http://img.youtube.com/vi/Vgy81rtZiVM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Vgy81rtZiVM">https://www.youtube.com/embed/Vgy81rtZiVM</a><br><br>頑固一徹の老人が避難の際、親族を犠牲にした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Vgy81rtZiVM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7610094,40.8235444,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森市立第一中学校ー斎藤繁太郎</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=riD9RWwWMZY"><img src="http://img.youtube.com/vi/riD9RWwWMZY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/riD9RWwWMZY">https://www.youtube.com/embed/riD9RWwWMZY</a><br><br>当時、市立一中校長代理でした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/riD9RWwWMZY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7723927,40.8278391,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>堤橋付近ー津島律さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=cYJ2nggF3B4"><img src="http://img.youtube.com/vi/cYJ2nggF3B4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/cYJ2nggF3B4">https://www.youtube.com/embed/cYJ2nggF3B4</a><br><br>当時、女学校の生徒でした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/cYJ2nggF3B4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7608807,40.8242913,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧青森市役所ー佐藤信顕さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=AVXU4tPO1QU"><img src="http://img.youtube.com/vi/AVXU4tPO1QU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/AVXU4tPO1QU">https://www.youtube.com/embed/AVXU4tPO1QU</a><br><br>空襲当時の青森市役所の様子を生々しく証言しています。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/AVXU4tPO1QU</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7432103,40.824953,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森操車場ー山本清丈さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=QRKBvI9y10c"><img src="http://img.youtube.com/vi/QRKBvI9y10c/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/QRKBvI9y10c">https://www.youtube.com/embed/QRKBvI9y10c</a><br><br>当時、青森操車場に勤務していた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/QRKBvI9y10c</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.744884,40.8146862,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧青森郵便局ー谷口貞一さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=mtch_E_zRx8"><img src="http://img.youtube.com/vi/mtch_E_zRx8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mtch_E_zRx8">https://www.youtube.com/embed/mtch_E_zRx8</a><br><br>当時、18歳で青森郵便局に勤務していた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/mtch_E_zRx8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7488108,40.8282125,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧青森郵便局ー今井定四郎さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Mo2nphdcGNE"><img src="http://img.youtube.com/vi/Mo2nphdcGNE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Mo2nphdcGNE">https://www.youtube.com/embed/Mo2nphdcGNE</a><br><br>当時、庶務課人事主任をしていた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Mo2nphdcGNE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7486713,40.8280096,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>神病院ー松森繁さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=JSx8S0N2qro"><img src="http://img.youtube.com/vi/JSx8S0N2qro/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/JSx8S0N2qro">https://www.youtube.com/embed/JSx8S0N2qro</a><br><br>当時の矢口事務長と松山婦長の話を元に構成したものです。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/JSx8S0N2qro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7462627,40.8279203,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧青森電話局ー対馬節子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=DDr9CIXkBnY"><img src="http://img.youtube.com/vi/DDr9CIXkBnY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/DDr9CIXkBnY">https://www.youtube.com/embed/DDr9CIXkBnY</a><br><br>当時は、交換手として勤務していた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/DDr9CIXkBnY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7451415,40.8279933,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上新町他ー一戸貞治さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=E3L-r1WF-dg"><img src="http://img.youtube.com/vi/E3L-r1WF-dg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/E3L-r1WF-dg">https://www.youtube.com/embed/E3L-r1WF-dg</a><br><br>当時、配電私設警防団員。上新町→本町→堤→港町]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/E3L-r1WF-dg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7373846,40.8272464,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧制青森中学校ー岩崎雄幸さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=4juzer7sHKY"><img src="http://img.youtube.com/vi/4juzer7sHKY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/4juzer7sHKY">https://www.youtube.com/embed/4juzer7sHKY</a><br><br>当時、旧制青森中学校の3年生。学校近くにいて、校旗搬出を手伝った。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/4juzer7sHKY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7771885,40.8282531,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧制青森中学校ー青森高校100年史</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=K0vJN7coPB8"><img src="http://img.youtube.com/vi/K0vJN7coPB8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/K0vJN7coPB8">https://www.youtube.com/embed/K0vJN7coPB8</a><br><br>多数の証言等から、時間軸を追って構成したもの。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/K0vJN7coPB8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7776499,40.828107,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>本町2丁目ー花田勝政さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=9_RsM61l4Gc"><img src="http://img.youtube.com/vi/9_RsM61l4Gc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/9_RsM61l4Gc">https://www.youtube.com/embed/9_RsM61l4Gc</a><br><br>当時、青森県巡査練習所練習生。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/9_RsM61l4Gc</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7502377,40.8280989,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浪打〜新城地区ー小宮山文子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=7ncs5o3XoRk"><img src="http://img.youtube.com/vi/7ncs5o3XoRk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/7ncs5o3XoRk">https://www.youtube.com/embed/7ncs5o3XoRk</a><br><br>実家は浪打にあり、当夜はたまたま、新城にいて助かった。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/7ncs5o3XoRk</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7786423,40.8249895,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>橋本町会ー白井雄作さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=UYgWO4lr-d0"><img src="http://img.youtube.com/vi/UYgWO4lr-d0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UYgWO4lr-d0">https://www.youtube.com/embed/UYgWO4lr-d0</a><br><br>当時、橋本第三町会町会長をしていた。防空壕に入ってはいけないと指導したという。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/UYgWO4lr-d0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7546473,40.8257283,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>松原通ー横山良子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=PRpg4IA9wj4"><img src="http://img.youtube.com/vi/PRpg4IA9wj4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/PRpg4IA9wj4">https://www.youtube.com/embed/PRpg4IA9wj4</a><br><br>幼子をかかえながら、田畑の仕事に精を出していた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/PRpg4IA9wj4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7628226,40.8206784,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>堤藤田呉服店ー沢田栄子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=KN46LnmPwqE"><img src="http://img.youtube.com/vi/KN46LnmPwqE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/KN46LnmPwqE">https://www.youtube.com/embed/KN46LnmPwqE</a><br><br>当時は、青森女子師範予科に通学していた。姉二人が焼夷弾直撃で亡くなった。身動きできない瀕死の姉から、時計などを持ち去られる。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/KN46LnmPwqE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7609343,40.8239869,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>堤川他ー淡谷悠蔵さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Fevj4_mEPYU"><img src="http://img.youtube.com/vi/Fevj4_mEPYU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Fevj4_mEPYU">https://www.youtube.com/embed/Fevj4_mEPYU</a><br><br>私達の足元がかつて戦場になり、その記録を後世に伝えていくことの大切さを切々と訴える。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Fevj4_mEPYU</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7606983,40.8307616,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浦町駅近くー塩谷太兵衛さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=G0tzs5gCb-A"><img src="http://img.youtube.com/vi/G0tzs5gCb-A/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/G0tzs5gCb-A">https://www.youtube.com/embed/G0tzs5gCb-A</a><br><br>久しぶりの家族団欒で、文芸館で映画を見ていた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/G0tzs5gCb-A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7547975,40.8199233,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新城→沖館→中心街ー須藤真利さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=TXNgBKyeE10"><img src="http://img.youtube.com/vi/TXNgBKyeE10/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/TXNgBKyeE10">https://www.youtube.com/embed/TXNgBKyeE10</a><br><br>当時、読売新聞社青森支局記者だった。弘前から駆けつけ、広報活動を行う。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/TXNgBKyeE10</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.6733227,40.8277417,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>蓮華寺近くー木村洋子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=JRcDxDe2xoA"><img src="http://img.youtube.com/vi/JRcDxDe2xoA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/JRcDxDe2xoA">https://www.youtube.com/embed/JRcDxDe2xoA</a><br><br>当時、国民学校の教師をしていた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/JRcDxDe2xoA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7491434,40.8254685,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東宝劇場付近ー嶋中啓悟さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=vy4o3Z-vmqU"><img src="http://img.youtube.com/vi/vy4o3Z-vmqU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/vy4o3Z-vmqU">https://www.youtube.com/embed/vy4o3Z-vmqU</a><br><br>当時、青森商業学校4年生。3月の東京空襲を経て、青森市に疎開していた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/vy4o3Z-vmqU</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7466596,40.8262235,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NHK青森放送局</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=_UExDi03KYo"><img src="http://img.youtube.com/vi/_UExDi03KYo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/_UExDi03KYo">https://www.youtube.com/embed/_UExDi03KYo</a><br><br>当夜の空襲警報を放送。放送局は安全だからと、多くに人々が避難してきた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/_UExDi03KYo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7674199,40.821677,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NHK青森放送局２</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=bFOIFizo5Kg"><img src="http://img.youtube.com/vi/bFOIFizo5Kg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/bFOIFizo5Kg">https://www.youtube.com/embed/bFOIFizo5Kg</a><br><br>太平洋戦争末期の青森放送局の動向がよく分かる。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/bFOIFizo5Kg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7675648,40.8218638,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧市民病院付近ー村木義一さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=j5e6RwRY9yw"><img src="http://img.youtube.com/vi/j5e6RwRY9yw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/j5e6RwRY9yw">https://www.youtube.com/embed/j5e6RwRY9yw</a><br><br>当時、旧制青森中学校1年生。防空壕に入らず、助かった。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/j5e6RwRY9yw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7528448,40.8234713,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>文化会館南側-石澤敬子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=3xGqsVMSA-I"><img src="http://img.youtube.com/vi/3xGqsVMSA-I/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/3xGqsVMSA-I">https://www.youtube.com/embed/3xGqsVMSA-I</a><br><br>青森高等女学校1年（13歳）。7月28日まで、家に帰らないと配給をストップするとの広報により、戻り空襲にあった。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/3xGqsVMSA-I</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7570291,40.8237798,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>蜆貝町会-三浦次麿さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=RqLBCZDnbbo"><img src="http://img.youtube.com/vi/RqLBCZDnbbo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/RqLBCZDnbbo">https://www.youtube.com/embed/RqLBCZDnbbo</a><br><br>精麦会社に勤務。妻子5人を浜館村に疎開させていた。第一町会長をしていた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/RqLBCZDnbbo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7574689,40.8284885,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上浦町ー高谷容子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=FBbVzf-8Ulw"><img src="http://img.youtube.com/vi/FBbVzf-8Ulw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/FBbVzf-8Ulw">https://www.youtube.com/embed/FBbVzf-8Ulw</a><br><br>当時、小学6年生だった高谷さんは、空襲当日、疎開先の横内から帰ってきていた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/FBbVzf-8Ulw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7452059,40.8196148,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>駒込→筒井→堤→古川→沖館ー前田保さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=2rbxeO1-xKs"><img src="http://img.youtube.com/vi/2rbxeO1-xKs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/2rbxeO1-xKs">https://www.youtube.com/embed/2rbxeO1-xKs</a><br><br>当時、中学3年生。郊外でのグラーダ講習に参加していた。空襲翌日、3時間余かかり、被災地の惨状を見た。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/2rbxeO1-xKs</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7913184,40.7985744,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>古川長谷川ビルー花田哲子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=fugFsPwn0Y0"><img src="http://img.youtube.com/vi/fugFsPwn0Y0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/fugFsPwn0Y0">https://www.youtube.com/embed/fugFsPwn0Y0</a><br><br>当時14歳の女学生。防空壕に逃げ込んだが、小用を我慢できずに外へ出て九死に一生をえる。東京空襲から何も学ばない指導者の責任は重い。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/fugFsPwn0Y0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.737642,40.8239666,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東青病院ー細川一衛さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=amL7YJlJ_i8"><img src="http://img.youtube.com/vi/amL7YJlJ_i8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/amL7YJlJ_i8">https://www.youtube.com/embed/amL7YJlJ_i8</a><br><br>当時、16歳の旧制中学3年生。東青病院に入院していた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/amL7YJlJ_i8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7493097,40.8234267,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>篠田桜田医院ー山下満郎さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=jtUC_wd3dos"><img src="http://img.youtube.com/vi/jtUC_wd3dos/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/jtUC_wd3dos">https://www.youtube.com/embed/jtUC_wd3dos</a><br><br>第一救護所に指定された桜田医院の空襲時の救護の様子。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/jtUC_wd3dos</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7284554,40.8279791,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>千刈小学校付近ー秋田谷ミサオさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=A_WuCclp-q0"><img src="http://img.youtube.com/vi/A_WuCclp-q0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/A_WuCclp-q0">https://www.youtube.com/embed/A_WuCclp-q0</a><br><br>千刈小学校が空襲で焼け落ちていくさまを記録している。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/A_WuCclp-q0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7263124,40.8231547,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中央古川ー蛯名サトさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=q8czpCTaLkg"><img src="http://img.youtube.com/vi/q8czpCTaLkg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/q8czpCTaLkg">https://www.youtube.com/embed/q8czpCTaLkg</a><br><br>中央古川から郊外へ逃げようとした時、逃げるのを阻止されている。誰とは書いていないが、防空関係者であろう。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/q8czpCTaLkg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7356894,40.82598,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>本古川ー高橋光雄さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=4ZlcBWT45_A"><img src="http://img.youtube.com/vi/4ZlcBWT45_A/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/4ZlcBWT45_A">https://www.youtube.com/embed/4ZlcBWT45_A</a><br><br>本古川から、家族ばらばらで逃げ惑う。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/4ZlcBWT45_A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7349491,40.8265889,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>莨町小学校付近ー須藤直一さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=JYtMX7pQwkM"><img src="http://img.youtube.com/vi/JYtMX7pQwkM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/JYtMX7pQwkM">https://www.youtube.com/embed/JYtMX7pQwkM</a><br><br>近くの莨町国民学校の校庭にあった防空壕に逃げ込む。そして・・・]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/JYtMX7pQwkM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7576889,40.8271693,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浦町神明宮付近ー堀内泰喜さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=28VEdIC25j0"><img src="http://img.youtube.com/vi/28VEdIC25j0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/28VEdIC25j0">https://www.youtube.com/embed/28VEdIC25j0</a><br><br>翌朝、家に帰る道で多くの焼死体を見ている。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/28VEdIC25j0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7516539,40.820922,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>県庁西側ー成田彦栄さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=H3LIDe5n4ZI"><img src="http://img.youtube.com/vi/H3LIDe5n4ZI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/H3LIDe5n4ZI">https://www.youtube.com/embed/H3LIDe5n4ZI</a><br><br>蔵の中には、貴重な考古資料が多数収蔵されていた。その運命やいかに。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/H3LIDe5n4ZI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7384199,40.8247013,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>国鉄関係ー工藤慶蔵さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=VpLvDv7LwKM"><img src="http://img.youtube.com/vi/VpLvDv7LwKM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/VpLvDv7LwKM">https://www.youtube.com/embed/VpLvDv7LwKM</a><br><br>第二岸壁には、高射機関砲があった。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/VpLvDv7LwKM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7358503,40.8311188,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>市公会堂ー柿崎守忠さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=PDydZ74zqsg"><img src="http://img.youtube.com/vi/PDydZ74zqsg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/PDydZ74zqsg">https://www.youtube.com/embed/PDydZ74zqsg</a><br><br>当時の青森市長。復興への苦労を語る。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/PDydZ74zqsg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7510102,40.8293085,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>裁判所官舎ー藤林ミヤさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=2Nn4gWssX5E"><img src="http://img.youtube.com/vi/2Nn4gWssX5E/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/2Nn4gWssX5E">https://www.youtube.com/embed/2Nn4gWssX5E</a><br><br>]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/2Nn4gWssX5E</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7428777,40.8242182,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧県病北側ー高谷進さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=fq4Wv0nyo2w"><img src="http://img.youtube.com/vi/fq4Wv0nyo2w/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/fq4Wv0nyo2w">https://www.youtube.com/embed/fq4Wv0nyo2w</a><br><br>蓮心寺の大銀杏や池に助けられた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/fq4Wv0nyo2w</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7472014,40.823861,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧県病前ー高谷進さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=UVgPWsdUMOE"><img src="http://img.youtube.com/vi/UVgPWsdUMOE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UVgPWsdUMOE">https://www.youtube.com/embed/UVgPWsdUMOE</a><br><br>空襲から逃げる際、口から泡を吹いていた女性を置き去りにした。その女性からの37年目の手紙であった。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/UVgPWsdUMOE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7474375,40.8230654,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧県病東側ー鳴海正子さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=6GbpmsPpVes"><img src="http://img.youtube.com/vi/6GbpmsPpVes/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/6GbpmsPpVes">https://www.youtube.com/embed/6GbpmsPpVes</a><br><br>今の市役所東側に住んでいた。不動産会社の地下室に逃げ込む。寺山修司の担任だった幼稚園の先生が歌う賛美歌が聞こえてきた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/6GbpmsPpVes</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7481134,40.8226432,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浦町小学校付近ー小林盛義さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=okJBgr1VvbA"><img src="http://img.youtube.com/vi/okJBgr1VvbA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/okJBgr1VvbA">https://www.youtube.com/embed/okJBgr1VvbA</a><br><br>浦町橋本に住み、莨町小学校の教諭をしていた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/okJBgr1VvbA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7500875,40.8196757,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>合浦町付近ー北見三千雄さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=Noh1XkhYTDM"><img src="http://img.youtube.com/vi/Noh1XkhYTDM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Noh1XkhYTDM">https://www.youtube.com/embed/Noh1XkhYTDM</a><br><br>「逃げるな、日本人だろう」と兵隊に呼び止められる。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/Noh1XkhYTDM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7700109,40.8273195,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北片岡町ー三浦フサさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=IGdm7j_nQUQ"><img src="http://img.youtube.com/vi/IGdm7j_nQUQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/IGdm7j_nQUQ">https://www.youtube.com/embed/IGdm7j_nQUQ</a><br><br>焼死体を「君が代」を鳴らしたトラックがドンドン運んでいた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/IGdm7j_nQUQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7419765,40.8188597,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>蜆貝町ー秋田重蔵さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=fW7oMlX67Kg"><img src="http://img.youtube.com/vi/fW7oMlX67Kg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/fW7oMlX67Kg">https://www.youtube.com/embed/fW7oMlX67Kg</a><br><br>この辺りは、唱和17年9月の大火で400軒余りが立退きを迫られた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/fW7oMlX67Kg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7590783,40.8288701,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>昭和町ー田中義明さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=jhCwqK9oe0k"><img src="http://img.youtube.com/vi/jhCwqK9oe0k/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/jhCwqK9oe0k">https://www.youtube.com/embed/jhCwqK9oe0k</a><br><br>タグボートの船長だった父を7月15日の艦載機空襲で亡くした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/jhCwqK9oe0k</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7294989,40.8292679,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青森師範学校ー米田良逸さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=TArbOmr8628"><img src="http://img.youtube.com/vi/TArbOmr8628/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/TArbOmr8628">https://www.youtube.com/embed/TArbOmr8628</a><br><br>青森師範学校の教諭だった。教頭の判断で、防空壕を飛び出し、水田の方へ逃げる。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/TArbOmr8628</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7749033,40.8237149,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>橋本小学校付近ー福井りやうさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=UzcirVpPF80"><img src="http://img.youtube.com/vi/UzcirVpPF80/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UzcirVpPF80">https://www.youtube.com/embed/UzcirVpPF80</a><br><br>青森空襲の前に、市内から避難し、親子ともども助かる。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/UzcirVpPF80</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7545614,40.8253386,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>松森町ー中村孝之さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=62AC77NB5jY"><img src="http://img.youtube.com/vi/62AC77NB5jY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/62AC77NB5jY">https://www.youtube.com/embed/62AC77NB5jY</a><br><br>当時小学校3年生。兵隊や消防が任務を放棄し、山手に逃げていくのを目にした。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/62AC77NB5jY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7774138,40.812169,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>大野地区ー久保内重光さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=RjgzKl6MlI0"><img src="http://img.youtube.com/vi/RjgzKl6MlI0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/RjgzKl6MlI0">https://www.youtube.com/embed/RjgzKl6MlI0</a><br><br>当時小学校5年。多くの焼死体を見た。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/RjgzKl6MlI0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7409573,40.806582,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>莨町小学校近くー成田チセさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=tV551ECsbzQ"><img src="http://img.youtube.com/vi/tV551ECsbzQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/tV551ECsbzQ">https://www.youtube.com/embed/tV551ECsbzQ</a><br><br>松原方面へ逃げる途中、堤橋傍の屯所前で、消防の人から引き返して、消火に当たるよう言われた。<br>]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/tV551ECsbzQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7592499,40.8283018,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浦町駅構内ー柴田重男さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=nRP5xGrK9f0"><img src="http://img.youtube.com/vi/nRP5xGrK9f0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/nRP5xGrK9f0">https://www.youtube.com/embed/nRP5xGrK9f0</a><br><br>岩手県での会議に向かうため、弘前駅→青森駅→浦町駅→岩手県。偶然、青森空襲に遭遇する。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/nRP5xGrK9f0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7543683,40.8188353,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浦町ー寺山はつさん（寺山修司の母）</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=740UWIikoMs"><img src="http://img.youtube.com/vi/740UWIikoMs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/740UWIikoMs">https://www.youtube.com/embed/740UWIikoMs</a><br><br>寺山修司とともに、神清一宅に間借りしていた。西隣の防空壕に逃げ込むが、そこを抜け出し、助かる。なお、翌日艦載機から機銃掃射されたというが、8月9・10日の記憶と混同しているようだ。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/740UWIikoMs</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7525122,40.8211331,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧青森営林局付近ー今博文さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=nweAZ8jjXIY"><img src="http://img.youtube.com/vi/nweAZ8jjXIY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/nweAZ8jjXIY">https://www.youtube.com/embed/nweAZ8jjXIY</a><br><br>幸い、青森駅西側は被害が少なく、生き延びた。少年の頃の記憶を、71年目に語ってくれた。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/nweAZ8jjXIY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7234263,40.8330102,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>法務局付近ー北畠きくさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=EesjG9W8Oh0"><img src="http://img.youtube.com/vi/EesjG9W8Oh0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/EesjG9W8Oh0">https://www.youtube.com/embed/EesjG9W8Oh0</a><br><br>当夜は、義父の通夜をしていた。義母も空襲で亡くなり、命日が一緒になった。]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/EesjG9W8Oh0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7421267,40.8195904,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>片岡町ー加藤さつみさん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=kxL_wKg8qSs"><img src="http://img.youtube.com/vi/kxL_wKg8qSs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/kxL_wKg8qSs">https://www.youtube.com/embed/kxL_wKg8qSs</a><br><br>]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/kxL_wKg8qSs</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7434356,40.8187216,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>吹田宅ー成田千空さん</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=X7WWVKlNvVQ"><img src="http://img.youtube.com/vi/X7WWVKlNvVQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/X7WWVKlNvVQ">https://www.youtube.com/embed/X7WWVKlNvVQ</a><br><br>]]></description>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/X7WWVKlNvVQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7552722,40.8258014,100</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>shoshitsu.kml</name>
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>bf0000ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>bf0000ff</color>
+			<width>4.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660000ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_blu-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-circle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_blu-circle">
+		<IconStyle>
+			<color>80ffffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-circle">
+		<IconStyle>
+			<color>80ffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>焼失概略範囲</name>
+		<Placemark>
+			<name>焼失1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							140.7652259,40.8220262,0 140.7665563,40.8230005,0 140.7664705,40.8239747,0 140.7688737,40.8245268,0 140.7690025,40.8239098,0 140.7713628,40.8243644,0 140.7715345,40.8239422,0 140.7734657,40.8241371,0 140.7740665,40.8225133,0 140.7764268,40.822968,0 140.7754398,40.8253711,0 140.7776285,40.8258907,0 140.7773281,40.826735,0 140.780332,40.8274819,0 140.7817482,40.8279365,0 140.781877,40.8282613,0 140.7814049,40.829138,0 140.7789587,40.8287159,0 140.7786154,40.8299174,0 140.775826,40.8294628,0 140.7762123,40.8280989,0 140.7729078,40.8274819,0 140.7715774,40.827352,0 140.7677579,40.8271247,0 140.7670713,40.8273196,0 140.7664276,40.8275469,0 140.7655263,40.8281963,0 140.7663417,40.8283912,0 140.7653547,40.8326125,0 140.764196,40.8327099,0 140.7641101,40.8335866,0 140.7629943,40.8335866,0 140.7608056,40.829138,0 140.7608056,40.827352,0 140.7609773,40.8265077,0 140.7613635,40.8258258,0 140.7624364,40.8244294,0 140.7628227,40.8232603,0 140.7635951,40.8224159,0 140.7643676,40.822286,0 140.7652259,40.8220262,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>焼失2</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							140.7322427,40.8248657,0 140.7320925,40.8241188,0 140.7321784,40.8230796,0 140.732629,40.8220728,0 140.7336589,40.8209686,0 140.734882,40.8203678,0 140.7381865,40.8189388,0 140.7411691,40.8177047,0 140.7451817,40.8159346,0 140.7471344,40.8155448,0 140.7485076,40.8155611,0 140.7501599,40.8158534,0 140.7514044,40.816438,0 140.7524988,40.8172175,0 140.7542583,40.8182243,0 140.7555458,40.8191012,0 140.7565328,40.819767,0 140.7576701,40.8205627,0 140.7584855,40.8212772,0 140.7594511,40.8220728,0 140.7609746,40.8226736,0 140.7619831,40.8229659,0 140.761747,40.8235505,0 140.7613822,40.8245897,0 140.7608673,40.8252879,0 140.7602664,40.8262621,0 140.7598588,40.827285,0 140.75973,40.8290548,0 140.7599231,40.8297367,0 140.7611033,40.8322532,0 140.761275,40.8333897,0 140.7603737,40.8338281,0 140.7590863,40.8318961,0 140.7583138,40.830857,0 140.7572409,40.830516,0 140.7563826,40.830305,0 140.7520911,40.8298503,0 140.7496664,40.8296717,0 140.7476708,40.8294932,0 140.7470056,40.8294932,0 140.7449028,40.8289574,0 140.7422635,40.8291522,0 140.740976,40.8292171,0 140.7383153,40.8297529,0 140.7366845,40.8292334,0 140.7353756,40.8293957,0 140.7345602,40.8278533,0 140.7340452,40.8268791,0 140.7335516,40.8260023,0 140.7333371,40.8247196,0 140.7322427,40.8248657,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>青森空襲の概要</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=mKv6Ne016v4"><img src="http://img.youtube.com/vi/mKv6Ne016v4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mKv6Ne016v4">https://www.youtube.com/embed/mKv6Ne016v4</a><br><br>昭和20（1945）年7月28日夜、青森市はアメリカ軍機による空襲を受け、壊滅的被害を受け、1000人以上もの死者を出しました。]]></description>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/mKv6Ne016v4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.749712,40.8338139,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>「青森空襲の記録」発刊のことば</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=f7UWtl4klmY"><img src="http://img.youtube.com/vi/f7UWtl4klmY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/f7UWtl4klmY">https://www.youtube.com/embed/f7UWtl4klmY</a><br><br>昭和47年に、青森市が「青森空襲の記録」を発刊するにあたっての、当時の奈良岡市長の巻頭言。]]></description>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/f7UWtl4klmY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7517719,40.8338138,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>犠牲者・同遺族名簿（ア~ク）</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=UMK9Bfo6siA"><img src="http://img.youtube.com/vi/UMK9Bfo6siA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UMK9Bfo6siA">https://www.youtube.com/embed/UMK9Bfo6siA</a><br><br>]]></description>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/UMK9Bfo6siA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7530379,40.8340249,100</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

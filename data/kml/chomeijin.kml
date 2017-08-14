@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>chomeijin.kml</name>
+	<StyleMap id="icon-962-009D57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-962-009D57-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-962-009D57-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-962-009D57-normal">
+		<IconStyle>
+			<color>cc06ff27</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="icon-962-009D57-highlight">
+		<IconStyle>
+			<color>cc06ff27</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>著名人罹災場所</name>
+		<Placemark>
+			<name>寺山修司ー浦町地区</name>
+			<description><![CDATA[<a href="https://www.youtube.com/watch?v=UD9orft1DxM"><img src="http://img.youtube.com/vi/UD9orft1DxM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UD9orft1DxM">https://www.youtube.com/embed/UD9orft1DxM</a><br><br>当時、10歳で橋本小学校に在学中。浦町で母親とともに、神清一宅に間借りしていた。]]></description>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://www.youtube.com/embed/UD9orft1DxM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.752598,40.8212223,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>沢田教一ー寺町地区</name>
+			<description>当時、10歳で郵政官舎に住んでいました。</description>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7483441,40.8256228,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>黒柳徹子ー青森駅</name>
+			<description>空襲当日の午後、北海道の親戚から疎開先の南部町諏訪ノ平への帰途、辛うじて、青森駅から最終の八戸行へ乗って、難を逃れた。</description>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7346058,40.830242,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>太宰治ー上野駅</name>
+			<description>当時、家族と郷里の金木へ疎開途中。青森空襲の余波を受け、上野駅で足止めされていた。http://www.city.aomori.aomori.jp/view.rbz?cd=19504</description>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>139.7751045,35.7118658,100</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

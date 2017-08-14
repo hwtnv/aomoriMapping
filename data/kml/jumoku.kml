@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>jumoku.kml</name>
+	<Style id="icon-503-DB4436-normal">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="icon-503-DB4436-highlight">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ccffffff</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ccffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-503-DB4436">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-503-DB4436-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>空襲被災樹木（現存するもの）</name>
+		<Placemark>
+			<name>青森高校正門の松</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/m1FQxd3VaejGP3BaZDgtOuo3KffOktATkyVfH1-_Vctjj1agwFuYc3jo8upo2GqFZm7OSMZoDM1R7R4c32eDYw" height="200" width="auto" /><br><br>現在、青森高校正門横に移植された松は、「旧制青森第三中学校の松」と呼ばれ、合浦公園近くにあった時（白黒写真）に爆撃を受け、現生している貴重な樹木（カラー写真の左）。<br><br><img src="https://lh3.googleusercontent.com/proxy/ZrdDpGOwXMOf1UUL2Q3-80bdz8YtkoblxL3xKGR8vMeNsbtXipo-Rc-AAuyFc46JzlW4ibUrXpypnpcH" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/m1FQxd3VaejGP3BaZDgtOuo3KffOktATkyVfH1-_Vctjj1agwFuYc3jo8upo2GqFZm7OSMZoDM1R7R4c32eDYw https://lh3.googleusercontent.com/proxy/ZrdDpGOwXMOf1UUL2Q3-80bdz8YtkoblxL3xKGR8vMeNsbtXipo-Rc-AAuyFc46JzlW4ibUrXpypnpcH</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7665992,40.8081575,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>蓮心寺大イチョウ</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/S1iRhZU3L01VRDmvPTwpLNICEU4ox49g2TuN-IFNp36mwJtPTd6F_Nrk3nakve0g-ePru_0sB_CVzOnvV2W3RISt" height="200" width="auto" /><br><br>青森市本町にある蓮心寺境内南西角にある大イチョウが青森空襲を生き延びてきたようである。推定樹齢300年。この銀杏に助けられた人たちがいた。https://www.youtube.com/watch?v=fq4Wv0nyo2w]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/S1iRhZU3L01VRDmvPTwpLNICEU4ox49g2TuN-IFNp36mwJtPTd6F_Nrk3nakve0g-ePru_0sB_CVzOnvV2W3RISt</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7481027,40.8240153,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>諏訪神社ケヤキ</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/u5jOAuXIp32otvYDDd3LwwysyE_KrID1mHNX519U68Si27O1iiGO8HJ0x_8-Q5sKC9hRrpCnGVaY_8eJ-_lYFTU" height="200" width="auto" /><br><br>境内にひっそりと佇むケヤキの大木が2本。戦前からのものだという。間違いなく、青森空襲を乗り越えてきた。<br><br><img src="https://lh3.googleusercontent.com/proxy/7TkLaV3thlSrp6Av3htVaoEWJetb4wXIAQVc4llSqievp1XKra_F_FdXtw0qpR61MfOCO4Fr9Le9IkeDCM1Eq8A" height="200" width="auto" />]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/u5jOAuXIp32otvYDDd3LwwysyE_KrID1mHNX519U68Si27O1iiGO8HJ0x_8-Q5sKC9hRrpCnGVaY_8eJ-_lYFTU https://lh3.googleusercontent.com/proxy/7TkLaV3thlSrp6Av3htVaoEWJetb4wXIAQVc4llSqievp1XKra_F_FdXtw0qpR61MfOCO4Fr9Le9IkeDCM1Eq8A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7631767,40.8237068,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>成田山大イチョウ（新）</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Hb3grjs4pftqYOfYWVY4OLanSBirfw0b62KzBkF92ITmGS_69-H4Pf1QrsfDpMREX5UsmMXBQE4ZaqW1JpJmKX9HPWD2BrjT" height="200" width="auto" /><br><br>拝殿等は青森空襲で消失。大銀杏だけが残った。昭和32年に再建。参拝に訪れる人の殆どは、そのことを知らない。]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/Hb3grjs4pftqYOfYWVY4OLanSBirfw0b62KzBkF92ITmGS_69-H4Pf1QrsfDpMREX5UsmMXBQE4ZaqW1JpJmKX9HPWD2BrjT</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7629138,40.8236093,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>（新）タカラショールームのアカシア？</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/nkNR4ho3VazDDCJF8TZFN7AVgoqq3AlleapmCcqBPlpCkXBzU6R-4OmaI9mjMr190EvQGXf0QIWox1txu9_w4qvp4QRNRnaBcvRImzIWKSkoPmSNZ56cgKlTMPfNZJj5pMZECLmmdnvxesrC2C1QrkS5_6e1S_fCgEw8dg2_cZ9VYR--bkdIVYjevCut2nOHKTZbpytWdbv897d1bZLjJngoZXWJj-i30xjlYkZjl9wJG8Jy03f51vNn4Bo9LM01DorKo-HRdb9OKLi33vG5-kJzbLQlBlJtcMZXyoVxAhTOhuWUiGvf2D55UDEkkLnZXJGzv8Q3osBd4qKnZ8y5zivdguv-A7wAXUC0YbXQvIkXX6-N3z7yiHwamuKw3_0L1sCk93zGXTpQLhL1kes" height="200" width="auto" /><br><br>旧青森マリア幼稚園敷地。寺山修司も戦前に通園した。スペンサー先生が3本植え、青森空襲で1本焼け残ったという。]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/nkNR4ho3VazDDCJF8TZFN7AVgoqq3AlleapmCcqBPlpCkXBzU6R-4OmaI9mjMr190EvQGXf0QIWox1txu9_w4qvp4QRNRnaBcvRImzIWKSkoPmSNZ56cgKlTMPfNZJj5pMZECLmmdnvxesrC2C1QrkS5_6e1S_fCgEw8dg2_cZ9VYR--bkdIVYjevCut2nOHKTZbpytWdbv897d1bZLjJngoZXWJj-i30xjlYkZjl9wJG8Jy03f51vNn4Bo9LM01DorKo-HRdb9OKLi33vG5-kJzbLQlBlJtcMZXyoVxAhTOhuWUiGvf2D55UDEkkLnZXJGzv8Q3osBd4qKnZ8y5zivdguv-A7wAXUC0YbXQvIkXX6-N3z7yiHwamuKw3_0L1sCk93zGXTpQLhL1kes</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.7484299,40.8228177,100</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
