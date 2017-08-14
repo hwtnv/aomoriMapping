@@ -48,7 +48,7 @@
 		<name>著名人罹災場所</name>
 		<Placemark>
 			<name>寺山修司ー浦町地区</name>
-			<description><![CDATA[<a href="https://www.youtube.com/watch?v=UD9orft1DxM"><img src="http://img.youtube.com/vi/UD9orft1DxM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UD9orft1DxM">https://www.youtube.com/embed/UD9orft1DxM</a><br><br>当時、10歳で橋本小学校に在学中。浦町で母親とともに、神清一宅に間借りしていた。]]></description>
+			<description><![CDATA[<iframe width="100%" height="240" src="https://www.youtube.com/embed/UD9orft1DxM" frameborder="0" allowfullscreen></iframe><br><br>当時、10歳で橋本小学校に在学中。浦町で母親とともに、神清一宅に間借りしていた。]]></description>
 			<styleUrl>#icon-962-009D57</styleUrl>
 			<ExtendedData>
 				<Data name="gx_media_links">
