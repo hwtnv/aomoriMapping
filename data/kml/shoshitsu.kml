@@ -11,7 +11,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>440000ff</color>
+			<color>220000ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin">
@@ -23,7 +23,7 @@
 			<width>4.5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>440000ff</color>
+			<color>220000ff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_blu-circle">

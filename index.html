@@ -266,6 +266,8 @@
 						if (entity.billboard != null) {
 							//CLAMP_TO_GROUND,NONE,RELATIVE_TO_GROUNDのいずれかを選択
 							entity.billboard.heightReference = Cesium.HeightReference.RELATIVE_TO_GROUND;
+							var translucencyByDistance = new Cesium.NearFarScalar(1.0e3, 1.0, 5.0e3, 0.0);
+							entity.label.translucencyByDistance = translucencyByDistance;
 						}
 						i++;
 					}
