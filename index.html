@@ -112,7 +112,10 @@
 			baseLayerPicker: false,
 			scene3DOnly: true,
 			//地形を強調する際は値を変更
-			terrainExaggeration: 1.0
+			terrainExaggeration: 1.0,
+			//必要時以外はレンダリングを更新しない
+			requestRenderMode: true,
+			maximumRenderTimeChange: Infinity
 		});
 
 		//ダブルクリック操作を付加
@@ -121,9 +124,7 @@
 
 		//地形メッシュを設定
 
-		var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
-			url: '//assets.agi.com/stk-terrain/world',
-			//海を表示しないときは以下をfalseに
+		var cesiumTerrainProviderMeshes = new Cesium.createWorldTerrain({
 			requestWaterMask: false,
 			requestVertexNormals: false
 		});
