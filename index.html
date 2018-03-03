@@ -126,7 +126,8 @@
 
 		var cesiumTerrainProviderMeshes = new Cesium.createWorldTerrain({
 			requestWaterMask: false,
-			requestVertexNormals: false
+			requestVertexNormals: false,
+			heightmapTerrainQuality: 0.5
 		});
 		viewer.terrainProvider = cesiumTerrainProviderMeshes;
 
